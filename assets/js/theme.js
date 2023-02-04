@@ -136,3 +136,8 @@ $(function() {
 });
 
 const randomColor = size => "#"+[...Array(size)].map(() => Math.floor(Math.random() * 16).toString(16)).join('');
+
+const catBg = `rgba(${randomColor(6)}, 0.4)`;
+cats.forEach((cat) => {
+    cat.style.background = catBg
+})
