@@ -1,6 +1,10 @@
 /*!
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
+ ---
+ ---
+ 
+ @import "custom";
 
 body {
 	overflow-x:hidden;
