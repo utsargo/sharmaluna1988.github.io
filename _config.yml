@@ -13,7 +13,7 @@ defaults:
     path: _posts
   values:
     layout: post
-    author: শর্মা লুনা
+    author: luna
     avatar: assets/images/luna-profile.JPG
 - scope:
     path: _pages
