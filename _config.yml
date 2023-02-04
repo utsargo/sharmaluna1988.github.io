@@ -13,8 +13,8 @@ defaults:
     path: _posts
   values:
     layout: post
-    author: sal
-    avatar: assets/images/avatar1.jpg
+    author: শর্মা লুনা
+    avatar: assets/images/luna-profile.JPG
 - scope:
     path: _pages
   values:
@@ -41,28 +41,9 @@ authors:
     name: শর্মা লুনা
     site: https://www.sharmaluna.com
     avatar: assets/images/luna-profile.JPG
-    bio: ""
-    email:
-    twitter:
-
-# Defaults
-defaults:
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: শর্মা লুনা
-      avatar: assets/images/luna-profile.JPG
-
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-
-# Syntax
-
+    bio: ''
+    email: 
+    twitter: 
 markdown: kramdown
 highlighter: rouge
 paginate: 10
