@@ -1,4 +1,8 @@
 #MagicMenu .container #navbarColor02 {
-    justify-content: flex-end;
-    gap: 16px;
+  justify-content: flex-end;
+  gap: 16px;
 }
+
+.author-top {
+  gap: 16px;
+}/*# sourceMappingURL=custom.css.map */
