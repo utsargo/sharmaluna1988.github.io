@@ -6,6 +6,9 @@
     }
   }
 }
+.site-content {
+  margin-top: 64px;
+}
 .author-top {
   gap: 16px;
 }
@@ -16,4 +19,25 @@
 .cat-single {
   padding: 4px 8px;
   border-radius: 4px;
+}
+
+.latest-post-r {
+  gap: 8px;
+  background: #f9f8f8;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 1px 2px 4px rgb(211 211 211 / 35%);
+}
+.latest-posts-l {
+  background: #f9f8f8;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 1px 2px 4px rgb(211 211 211 / 35%);
+  .card-body {
+    padding: 8px 16px !important;
+  }
+}
+.topfirstimage {
+  background-size: cover;
+  height: auto !important;
+  width: 100%;
+  aspect-ratio: 2/1;
 }
