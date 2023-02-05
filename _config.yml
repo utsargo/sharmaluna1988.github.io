@@ -9,17 +9,17 @@ collections:
     title: Uploads
     output: true
 defaults:
-  - scope:
-      path: _posts
-    values:
-      layout: post
-      author: luna
-      avatar: assets/images/luna-profile.JPG
-      image: https://source.unsplash.com/featured/?abstract
-  - scope:
-      path: _pages
-    values:
-      layout: page
+- scope:
+    path: _posts
+  values:
+    layout: post
+    author: luna
+    avatar: assets/images/luna-profile.JPG
+    image: https://source.unsplash.com/featured/?abstract
+- scope:
+    path: _pages
+  values:
+    layout: page
 name: জানালা
 description: আলাপ ও অপলাপসমূহ
 logo: assets/images/logo.png
@@ -30,31 +30,31 @@ disqus: demowebsite
 email: wowthemesnet@gmail.com
 mailchimp-list: https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b
 include:
-  - _pages
+- _pages
 permalink: "/:title/"
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-paginate
+- jekyll-seo-tag
 authors:
   luna:
     name: শর্মা লুনা
     site: https://www.sharmaluna.com
     avatar: assets/images/luna-profile.JPG
-    bio: ""
-    email:
-    twitter:
+    bio: ''
+    email: 
+    twitter: 
 markdown: kramdown
 highlighter: rouge
 paginate: 10
 exclude:
-  - README.markdown
-  - package.json
-  - grunt.js
-  - Gruntfile.js
-  - Gruntfile.coffee
-  - node_modules
+- README.markdown
+- package.json
+- grunt.js
+- Gruntfile.js
+- Gruntfile.coffee
+- node_modules
 sass:
   sass_dir: _sass
   style: compressed
