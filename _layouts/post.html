@@ -58,6 +58,14 @@ layout: default
           page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}"
           alt="{{ page.title }}">
         </div>
+        {% else %}
+        <div class="col-md-6 pr-0 align-self-center">
+          <img
+            class="rounded"
+            src="{{site.default_image}}"
+            alt="{{ page.title }}"
+          />
+        </div>
         {% endif %}
       </div>
     </div>
