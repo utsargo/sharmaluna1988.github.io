@@ -1,5 +1,5 @@
 ---
-title: Sharmaluna1988.Github.Io
+title: জানালা
 timezone: UTC
 collections:
   posts:
@@ -41,7 +41,7 @@ authors:
     name: শর্মা লুনা
     site: https://www.sharmaluna.com
     avatar: assets/images/luna-profile.JPG
-    bio: ''
+    bio: 
     email: 
     twitter: 
 markdown: kramdown
