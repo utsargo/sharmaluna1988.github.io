@@ -60,4 +60,7 @@
     flex-direction: column;
     align-items: center;
   }
+  .main-loop-card {
+    flex-direction: column-reverse;
+  }
 }/*# sourceMappingURL=custom.css.map */
