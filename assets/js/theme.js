@@ -150,29 +150,29 @@ catsAll.forEach((cat) => {
   cat.style.color = catBgColor;
 });
 
-const imgList = [
-  "5TK1F5VfdIk",
-  "3Sf_G9m0gcQ",
-  "t2Sai-AqIpI",
-  "fT49QnFucQ8",
-  "5MTf9XyVVgM",
-  "d2w-_1LJioQ",
-  "QwoNAhbmLLo",
-  "WjIB-6UxA5Q",
-  "G5A5ZNjS2tE",
-  "2LJ4rqK2qfU",
-  "Wa9ilX9XYOI",
-  "NBJ0BBqvdNM",
-  "3NXyodgX254",
-  "YoK5pBcSY8s",
-  "7pQszt9KiEY",
-];
+// const imgList = [
+//   "5TK1F5VfdIk",
+//   "3Sf_G9m0gcQ",
+//   "t2Sai-AqIpI",
+//   "fT49QnFucQ8",
+//   "5MTf9XyVVgM",
+//   "d2w-_1LJioQ",
+//   "QwoNAhbmLLo",
+//   "WjIB-6UxA5Q",
+//   "G5A5ZNjS2tE",
+//   "2LJ4rqK2qfU",
+//   "Wa9ilX9XYOI",
+//   "NBJ0BBqvdNM",
+//   "3NXyodgX254",
+//   "YoK5pBcSY8s",
+//   "7pQszt9KiEY",
+// ];
 
-window.onload = () =>{
-    const autoThumbs = document.querySelectorAll(".auto-thumb");
-    autoThumbs.forEach((thumb) => {
-        const randomIndex = Math.floor(Math.random() * imgList.length);
-        const randomImg = imgList[randomIndex];
-        thumb.setAttribute("src", `https://unsplash.com/photos/${randomImg}`);
-      });
-}
+// window.onload = () =>{
+//     const autoThumbs = document.querySelectorAll(".auto-thumb");
+//     autoThumbs.forEach((thumb) => {
+//         const randomIndex = Math.floor(Math.random() * imgList.length);
+//         const randomImg = imgList[randomIndex];
+//         thumb.setAttribute("src", `https://unsplash.com/photos/${randomImg}`);
+//       });
+// }
