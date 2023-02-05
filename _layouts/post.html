@@ -54,14 +54,14 @@ layout: default
         </div>
         {% if page.image %}
         <div class="col-md-6 pr-0 align-self-center">
-          <img class="rounded" src="{% if page.image contains "://" %}{{
-          page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}"
-          alt="{{ page.title }}">
+          <img class="rounded post-image" src="{% if page.image contains "://"
+          %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{%
+          endif %}" alt="{{ page.title }}">
         </div>
         {% else %}
         <div class="col-md-6 pr-0 align-self-center">
           <img
-            class="rounded"
+            class="rounded post-image"
             src="{{site.default_image}}"
             alt="{{ page.title }}"
           />

@@ -48,6 +48,11 @@
   aspect-ratio: 2/1;
 }
 
+.post-image {
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  object-position: center;
+}
 @media screen and (max-width: 575.98px) {
   .latest-post-r {
     flex-direction: column;
