@@ -135,9 +135,9 @@ $(function() {
   }
 });
 
-const randomRGB = () => Math.floor(Math.random() * (255 - 10 + 1)) + 10;
+const randomRGB = () => "rgb(" + Math.floor(Math.random() * 100) + "," + Math.floor(Math.random() * 100) + "," + Math.floor(Math.random() * 100) + ")";
 const catsAll = document.querySelectorAll('.cat-single')
 catsAll.forEach((cat) => {
-    const catBgColor = `rgba(${randomRGB()},${randomRGB()},${randomRGB()}, 0.9)`;
+    const catBgColor = randomRGB();
     cat.style.color = catBgColor
 })
