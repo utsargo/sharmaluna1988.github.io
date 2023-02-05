@@ -20,7 +20,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
     <div class="col-md-6 latest-posts-left">
     <div class="card border-0 mb-4 box-shadow latest-posts-l">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.image %}{% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}{% else %}'https://picsum.photos/seed/abstract/200/300?random=1' {% endif %});    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <div class="topfirstimage" style="background-image: url({% if latest_post.image %}{% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}{% else %}{{site.default_image}}{% endif %});    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -63,7 +63,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
                     </a>
                     </div>
                 {% endif %}                
-                <div>
+                <div class="post-detail">
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h2>
@@ -82,7 +82,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
         
         <!-- third latest post -->
         {%- assign third_post = site.posts[2] -%}        
-        <div class="mb-3 d-flex align-items-center">                
+        <div class="mb-3 d-flex align-items-center latest-post-r">                
                 {% if third_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{third_post.url}}">
@@ -96,7 +96,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
                     </a>
                     </div>
                 {% endif %}                
-                <div>
+                <div class="post-detail">
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
@@ -115,7 +115,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
         
         <!-- fourth latest post -->
         {%- assign fourth_post = site.posts[3] -%}        
-        <div class="mb-3 d-flex align-items-center">                
+        <div class="mb-3 d-flex align-items-center latest-post-r">                
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
@@ -129,7 +129,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
                     </a>
                     </div>
                 {% endif %}                
-                <div>
+                <div class="post-detail">
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
