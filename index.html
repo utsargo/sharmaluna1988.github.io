@@ -122,6 +122,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
                 <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
                 </a>
                 </div>
+                {% else %} 
                 <div class="col-md-4">
                     <a href="{{site.baseurl}}{{fourth_post.url}}">
                      <img class="w-100" src="{{site.default_image}}" alt="{{ fourth_post.title }}">
