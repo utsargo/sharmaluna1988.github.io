@@ -62,5 +62,6 @@
   }
   .main-loop-card {
     flex-direction: column-reverse;
+    gap: 8px;
   }
 }/*# sourceMappingURL=custom.css.map */
