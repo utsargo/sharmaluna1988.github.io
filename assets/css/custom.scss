@@ -48,14 +48,13 @@
   aspect-ratio: 2/1;
 }
 
-@media screen and (max-width: 575.98px){
+@media screen and (max-width: 575.98px) {
   .latest-post-r {
     flex-direction: column;
-    .post-detail{
+    .post-detail {
       display: flex;
       flex-direction: column;
       align-items: center;
     }
   }
-  
 }
