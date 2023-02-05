@@ -48,11 +48,14 @@
   width: 100%;
   aspect-ratio: 2/1;
 }
-
+.post-header {
+  flex-direction: column-reverse !important;
+}
 .post-image {
-  aspect-ratio: 4/3;
+  aspect-ratio: 5/2;
   object-fit: cover;
   object-position: center;
+  width: 100%;
 }
 @media screen and (max-width: 575.98px) {
   .latest-post-r {
