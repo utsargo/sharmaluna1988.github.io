@@ -197,52 +197,71 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
         <div class="mt-5">
             <!-- Pagination links -->
             {% if paginator.total_pages > 1 %}
-              <ul class="pagination"> 
+              <ul class="pagination">
                 {% if paginator.previous_page %}
-                  <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Previous</a></li>
+                  <li class="page-item">
+                    <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Previous</a>
+                  </li>
                 {% else %}
-                  <li class="page-item disabled"><span class="page-link">&laquo; Previous</span></li>
+                  <li class="page-item disabled">
+                    <span class="prev page-link">&laquo;</span>
+                  </li>
                 {% endif %}
-                
-                {% assign max = paginator.total_pages %}
-                {% assign current = paginator.page %}
-                {% if current > 1 %}
-                  {% assign min = current | minus: 1 %}
-                  {% if current > 2 %}
-                    <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', '1' }}">1</a></li>
-                    {% if current > 3 %}
-                      <li class="page-item disabled"><span class="page-link">...</span></li>
-                    {% endif %}
+          
+                {% assign start_page = paginator.page | minus: 1 %}
+                {% assign end_page = paginator.page | plus: 1 %}
+          
+                {% if start_page > 1 %}
+                  {% if start_page == 2 %}
+                    <li class="page-item">
+                      <a class="page-link" href="{{site.baseurl}}/">{{ start_page }}</a>
+                    </li>
+                  {% else %}
+                    <li class="page-item disabled">
+                      <span class="webjeda page-link">...</span>
+                    </li>
                   {% endif %}
-                {% else %}
-                  {% assign min = current %}
                 {% endif %}
-                
-                {% for page in (min..max) %}
-                  {% if page == current %}
-                    <li class="page-item active"><span class="page-link">{{ page }}</span></li>
-                  {% elsif page == min %}
-                    <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-                  {% elsif page == current | plus: 1 %}
-                    <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-                  {% elsif page == current | plus: 2 %}
-                    <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-                  {% elsif page == max %}
-                    {% if current < max | minus: 1 %}
-                      <li class="page-item disabled"><span class="page-link">...</span></li>
+          
+                {% for page in (start_page..end_page) %}
+                  {% if page > 0 and page <= paginator.total_pages %}
+                    {% if page == paginator.page %}
+                      <li class="page-item disabled">
+                        <span class="webjeda page-link">{{ page }}</span>
+                      </li>
+                    {% else %}
+                      <li class="page-item">
+                        <a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+                      </li>
                     {% endif %}
-                    <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
                   {% endif %}
                 {% endfor %}
-                
+          
+                {% if end_page < paginator.total_pages %}
+                  {% if end_page == paginator.total_pages | minus: 1 %}
+                    <li class="page-item">
+                      <a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">{{ paginator.total_pages }}</a>
+                    </li>
+                  {% else %}
+                    <li class="page-item disabled">
+                      <span class="webjeda page-link">...</span>
+                    </li>
+                  {% endif %}
+                {% endif %}
+          
                 {% if paginator.next_page %}
-                  <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+                  <li class="page-item">
+                    <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+                  </li>
                 {% else %}
-                  <li class="page-item disabled"><span class="page-link">Next &raquo;</span></li>
+                  <li class="page-item disabled">
+                    <span class="next page-link">&raquo;</span>
+                  </li>
                 {% endif %}
               </ul>
-            {% endif %}      
+            {% endif %}
           </div>
+          
           
         
     </div>
