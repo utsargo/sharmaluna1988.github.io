@@ -1,13 +1,13 @@
 ---
-id: 714
-title: "আমিই স্তম্ভিত বিশ্বজিৎ"
-date: "2017-08-07T00:44:09+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://bn.sharmaluna.com/?p=714"
-permalink: /justice-for-bisshojit/
+title: আমিই স্তম্ভিত বিশ্বজিৎ
+date: 2017-08-07 06:44:09 +06:00
+permalink: "/justice-for-bisshojit/"
 categories:
-  - কবিতা
+- কবিতা
+id: 714
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=714
 ---
 
 [![](/assets/images/wp-content/uploads/2017/08/1_KennyRivero_Batman_Is_Defeatd_By_The_Five_Lions_1024x1024.jpg)](/assets/images/wp-content/uploads/2017/08/1_KennyRivero_Batman_Is_Defeatd_By_The_Five_Lions_1024x1024.jpg)

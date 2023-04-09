@@ -1,13 +1,13 @@
 ---
-id: 696
-title: 'সুইসাইড নোট &#8211; ভূমিকা'
-date: '2017-06-12T00:27:10+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=696'
-permalink: /suicide-note/
+title: সুইসাইড নোট &#8211; ভূমিকা
+date: 2017-06-12 06:27:10 +06:00
+permalink: "/suicide-note/"
 categories:
-    - কবিতা
+- কবিতা
+id: 696
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=696
 ---
 
 এ এক ঐতিহাসিক মহা পরিকল্পনা  

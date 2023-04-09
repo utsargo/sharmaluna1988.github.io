@@ -1,21 +1,21 @@
 ---
-id: 46
-title: 'শিক্ষক যখন ভূমি দস্যু'
-date: '2016-12-18T06:06:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://bn.sharmaluna.com/2016/12/18/%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%95-%e0%a6%af%e0%a6%96%e0%a6%a8-%e0%a6%ad%e0%a7%82%e0%a6%ae%e0%a6%bf-%e0%a6%a6%e0%a6%b8%e0%a7%8d%e0%a6%af%e0%a7%81/'
-permalink: /when-a-teacher-is-corrupted/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2016/12/blog-post_91.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/6041326802993879694
+title: শিক্ষক যখন ভূমি দস্যু
+date: 2016-12-18 12:06:00 +06:00
+permalink: "/when-a-teacher-is-corrupted/"
 categories:
-    - মাথাব্যাথা
+- মাথাব্যাথা
+id: 46
+author: শর্মা লুনা
+layout: post
+guid: http://bn.sharmaluna.com/2016/12/18/%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%95-%e0%a6%af%e0%a6%96%e0%a6%a8-%e0%a6%ad%e0%a7%82%e0%a6%ae%e0%a6%bf-%e0%a6%a6%e0%a6%b8%e0%a7%8d%e0%a6%af%e0%a7%81/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2016/12/blog-post_91.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/6041326802993879694"
 ---
 
 ![](https://3.bp.blogspot.com/-C8DQ3CIuEf4/WFXS5zt0Z2I/AAAAAAAAAik/bRjc7Dryf5ku6F7GvXLeWrriy9LYG8jpQCK4B/s640/images%2B%25285%2529.jpg)

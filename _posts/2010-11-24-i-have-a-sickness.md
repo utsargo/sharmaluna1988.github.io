@@ -1,13 +1,13 @@
 ---
-id: 727
-title: 'আমার একটা অসুখ আছে'
-date: '2010-11-24T13:10:24+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=727'
-permalink: /i-have-a-sickness/
+title: আমার একটা অসুখ আছে
+date: 2010-11-24 19:10:24 +06:00
+permalink: "/i-have-a-sickness/"
 categories:
-    - কবিতা
+- কবিতা
+id: 727
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=727
 ---
 
 আমার একটা অসুখ আছে  

@@ -1,13 +1,13 @@
 ---
-id: 12
-title: 'এমন কী কথা ছিল!'
-date: '2011-05-21T13:33:05+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://bn.sharmaluna.com/?p=12'
-permalink: /emon-ki-kotha-silo/
+title: এমন কী কথা ছিল!
+date: 2011-05-21 19:33:05 +06:00
+permalink: "/emon-ki-kotha-silo/"
 categories:
-    - কবিতা
+- কবিতা
+id: 12
+author: শর্মা লুনা
+layout: post
+guid: http://bn.sharmaluna.com/?p=12
 ---
 
 কেউ ভাবিনা  

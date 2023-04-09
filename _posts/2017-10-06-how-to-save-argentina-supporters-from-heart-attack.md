@@ -1,13 +1,13 @@
 ---
-id: 895
-title: 'যেভাবে আর্জেন্টিনার সমর্থকদের হৃদরোগ থেকে বাঁচাবেন'
-date: '2017-10-06T14:41:52+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://sharmaluna.com/?p=895'
-permalink: /how-to-save-argentina-supporters-from-heart-attack/
+title: যেভাবে আর্জেন্টিনার সমর্থকদের হৃদরোগ থেকে বাঁচাবেন
+date: 2017-10-06 20:41:52 +06:00
+permalink: "/how-to-save-argentina-supporters-from-heart-attack/"
 categories:
-    - ফানপোস্ট
+- ফানপোস্ট
+id: 895
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=895
 ---
 
 [![](https://sharmaluna.com/wp-content/uploads/2017/11/মেসি.jpg)](https://sharmaluna.com/wp-content/uploads/2017/11/মেসি.jpg)

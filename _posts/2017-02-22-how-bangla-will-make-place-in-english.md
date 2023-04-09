@@ -1,21 +1,21 @@
 ---
-id: 30
-title: 'কিভাবে বাংলা ইংরেজিতে স্থান করে নেবে'
-date: '2017-02-22T00:27:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://sharmaluna.local/how-bangla-will-make-place-in-english/'
-permalink: /how-bangla-will-make-place-in-english/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2017/02/blog-post_21.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/4878301124391281511
+title: কিভাবে বাংলা ইংরেজিতে স্থান করে নেবে
+date: 2017-02-22 06:27:00 +06:00
+permalink: "/how-bangla-will-make-place-in-english/"
 categories:
-    - প্রেরণা
+- প্রেরণা
+id: 30
+author: শর্মা লুনা
+layout: post
+guid: http://sharmaluna.local/how-bangla-will-make-place-in-english/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2017/02/blog-post_21.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/4878301124391281511"
 ---
 
 ![](https://bn.sharmaluna.com/wp-content/uploads/2017/02/11811438_496256773875965_1742518766484485662_n-1-300x300.png)

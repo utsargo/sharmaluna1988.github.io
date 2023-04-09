@@ -1,16 +1,16 @@
 ---
-id: 560
-title: "শিশুতোষ সরলতা নিয়ে দেখা মায়া সভ্যতা"
-date: "2014-08-20T01:22:58+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://bn.sharmaluna.com/?p=560"
-permalink: /history-and-story-of-mayan-civilization/
+title: শিশুতোষ সরলতা নিয়ে দেখা মায়া সভ্যতা
+date: 2014-08-20 07:22:58 +06:00
+permalink: "/history-and-story-of-mayan-civilization/"
 categories:
-  - প্রেরণা
+- প্রেরণা
 tags:
-  - "Sharma Luna"
-  - "শর্মা লুনা"
+- Sharma Luna
+- শর্মা লুনা
+id: 560
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=560
 ---
 
 [![](/assets/images/wp-content/uploads/2017/10/monpobon_1327074885_1-405227_10151144846735497_608590496_22692319_1426536063_n.jpg)](/assets/images/wp-content/uploads/2017/10/monpobon_1327074885_1-405227_10151144846735497_608590496_22692319_1426536063_n.jpg)

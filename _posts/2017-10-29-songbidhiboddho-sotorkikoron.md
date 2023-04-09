@@ -1,13 +1,13 @@
 ---
-id: 720
-title: 'সংবিধিবদ্ধ সতর্কীকরণ'
-date: '2017-10-29T00:50:54+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=720'
-permalink: /songbidhiboddho-sotorkikoron/
+title: সংবিধিবদ্ধ সতর্কীকরণ
+date: 2017-10-29 06:50:54 +06:00
+permalink: "/songbidhiboddho-sotorkikoron/"
 categories:
-    - কবিতা
+- কবিতা
+id: 720
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=720
 ---
 
 এই এক বিংশ শতকে মংগলের মাটি ছোঁয়া পৃথিবী  

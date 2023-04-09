@@ -1,14 +1,14 @@
 ---
-id: 898
-title: "সু চি কে লেখা জহিরের খোলা চিঠিঃ"
-date: "2017-09-16T10:12:58+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=898"
-permalink: /a-letter-to-aung-san-suu-kyi-from-a-rohingya-child/
+title: সু চি কে লেখা জহিরের খোলা চিঠিঃ
+date: 2017-09-16 16:12:58 +06:00
+permalink: "/a-letter-to-aung-san-suu-kyi-from-a-rohingya-child/"
 categories:
-  - গল্প
-  - মাথাব্যাথা
+- গল্প
+- মাথাব্যাথা
+id: 898
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=898
 ---
 
 [![](/assets/images/wp-content/uploads/2017/09/21752183_1691964837480842_5133997553089091504_n.jpg)](/assets/images/wp-content/uploads/2017/09/21752183_1691964837480842_5133997553089091504_n.jpg)

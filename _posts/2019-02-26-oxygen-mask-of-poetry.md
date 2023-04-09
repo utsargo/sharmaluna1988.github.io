@@ -1,13 +1,13 @@
 ---
-id: 1269
-title: "কবিতার অক্সিজেন মাস্ক"
-date: "2019-02-26T04:54:58+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=1269"
-permalink: /oxygen-mask-of-poetry/
+title: কবিতার অক্সিজেন মাস্ক
+date: 2019-02-26 10:54:58 +06:00
+permalink: "/oxygen-mask-of-poetry/"
 categories:
-  - কবিতা
+- কবিতা
+id: 1269
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=1269
 ---
 
 [![](/assets/images/wp-content/uploads/2019/02/46144607_2217474181596569_8822921531127496704_n.jpg)](/assets/images/wp-content/uploads/2019/02/46144607_2217474181596569_8822921531127496704_n.jpg)

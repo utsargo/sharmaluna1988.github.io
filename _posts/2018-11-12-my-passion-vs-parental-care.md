@@ -1,23 +1,23 @@
 ---
-id: 1220
-title: "নিজের প্যাশন বনাম বাবা-মায়ের স্বপ্ন এবং আমরা যেভাবে মেরুদণ্ডহীন হই"
-date: "2018-11-12T02:28:36+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=1220"
-permalink: /my-passion-vs-parental-care/
+title: নিজের প্যাশন বনাম বাবা-মায়ের স্বপ্ন এবং আমরা যেভাবে মেরুদণ্ডহীন হই
+date: 2018-11-12 08:28:36 +06:00
+permalink: "/my-passion-vs-parental-care/"
 categories:
-  - প্রেরণা
-  - মাথাব্যাথা
+- প্রেরণা
+- মাথাব্যাথা
 tags:
-  - চাকরি
-  - "থ্রি ইডিয়টস"
-  - পরিবার
-  - প্যাশন
-  - বিসিএস
-  - "শর্মা লুনা"
-  - শর্মালুনা
-  - "সরকারী চাকরির বয়স ৩৫"
+- চাকরি
+- থ্রি ইডিয়টস
+- পরিবার
+- প্যাশন
+- বিসিএস
+- শর্মা লুনা
+- শর্মালুনা
+- সরকারী চাকরির বয়স ৩৫
+id: 1220
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=1220
 ---
 
 [![](/assets/images/wp-content/uploads/2018/11/college-grad-with-parents.jpg)](/assets/images/wp-content/uploads/2018/11/college-grad-with-parents.jpg)

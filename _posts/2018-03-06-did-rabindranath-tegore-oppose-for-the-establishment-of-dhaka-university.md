@@ -1,13 +1,13 @@
 ---
-id: 960
-title: "রবীন্দ্রনাথ কী আসলেই ঢাকা বিশ্ববিদ্যালয়ের বিরোধিতা করেছিলেন?"
-date: "2018-03-06T00:13:12+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=960"
-permalink: /did-rabindranath-tegore-oppose-for-the-establishment-of-dhaka-university/
+title: রবীন্দ্রনাথ কী আসলেই ঢাকা বিশ্ববিদ্যালয়ের বিরোধিতা করেছিলেন?
+date: 2018-03-06 06:13:12 +06:00
+permalink: "/did-rabindranath-tegore-oppose-for-the-establishment-of-dhaka-university/"
 categories:
-  - মাথাব্যাথা
+- মাথাব্যাথা
+id: 960
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=960
 ---
 
 [![](/assets/images/wp-content/uploads/2018/03/Mohammad_Sohidullah_And_Kazi_Motaher_Hossain.png)](/assets/images/wp-content/uploads/2018/03/Mohammad_Sohidullah_And_Kazi_Motaher_Hossain.png)

@@ -1,13 +1,13 @@
 ---
-id: 700
-title: 'অনিবার্য কারণ'
-date: '2017-07-28T00:33:28+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=700'
-permalink: /onibarjo-karon/
+title: অনিবার্য কারণ
+date: 2017-07-28 06:33:28 +06:00
+permalink: "/onibarjo-karon/"
 categories:
-    - কবিতা
+- কবিতা
+id: 700
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=700
 ---
 
 যেখানে যখনি যাও  

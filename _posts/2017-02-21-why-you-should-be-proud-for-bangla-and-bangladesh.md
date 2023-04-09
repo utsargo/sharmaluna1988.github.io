@@ -1,21 +1,21 @@
 ---
-id: 31
-title: 'বাংলা ও বাংলাদেশ নিয়ে কেন গর্বীত হবেন'
-date: '2017-02-21T01:33:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://sharmaluna.local/why-you-should-be-proud-for-bangla-and-bangladesh/'
-permalink: /why-you-should-be-proud-for-bangla-and-bangladesh/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2017/02/blog-post_20.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/2048267539908515313
+title: বাংলা ও বাংলাদেশ নিয়ে কেন গর্বীত হবেন
+date: 2017-02-21 07:33:00 +06:00
+permalink: "/why-you-should-be-proud-for-bangla-and-bangladesh/"
 categories:
-    - প্রেরণা
+- প্রেরণা
+id: 31
+author: শর্মা লুনা
+layout: post
+guid: http://sharmaluna.local/why-you-should-be-proud-for-bangla-and-bangladesh/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2017/02/blog-post_20.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/2048267539908515313"
 ---
 
 ![](http://2.bp.blogspot.com/-C0oaQVC4lt8/WKtEXLuEyhI/AAAAAAAAAoI/o_6sUp_PFoYf85dvo4COIeeTbbjIZTVbQCK4B/s1600/DT_OK_20420170205100437.jpg)

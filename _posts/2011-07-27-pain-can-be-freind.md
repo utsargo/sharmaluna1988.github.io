@@ -1,21 +1,21 @@
 ---
-id: 28
-title: 'ব্যথাই বন্ধু'
-date: '2011-07-27T00:47:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://sharmaluna.local/pain-can-be-freind/'
-permalink: /pain-can-be-freind/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2017/02/blog-post_68.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/7205217277120566981
+title: ব্যথাই বন্ধু
+date: 2011-07-27 06:47:00 +06:00
+permalink: "/pain-can-be-freind/"
 categories:
-    - কবিতা
+- কবিতা
+id: 28
+author: শর্মা লুনা
+layout: post
+guid: http://sharmaluna.local/pain-can-be-freind/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2017/02/blog-post_68.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/7205217277120566981"
 ---
 
 ব্যথা,  

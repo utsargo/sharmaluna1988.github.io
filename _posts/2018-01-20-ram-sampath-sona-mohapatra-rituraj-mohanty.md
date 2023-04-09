@@ -1,13 +1,13 @@
 ---
-id: 951
-title: "উড়িষ্যার জনপ্রিয়তম গান রঙ্গবতী (Coke Studio)"
-date: "2018-01-20T17:01:01+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=951"
-permalink: /ram-sampath-sona-mohapatra-rituraj-mohanty/
+title: উড়িষ্যার জনপ্রিয়তম গান রঙ্গবতী (Coke Studio)
+date: 2018-01-20 23:01:01 +06:00
+permalink: "/ram-sampath-sona-mohapatra-rituraj-mohanty/"
 categories:
-  - রিভিউ
+- রিভিউ
+id: 951
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=951
 ---
 
 [![](/assets/images/wp-content/uploads/2018/01/24edc9328f14438edb0f0a3379ba3910_ls_m.jpg)](/assets/images/wp-content/uploads/2018/01/24edc9328f14438edb0f0a3379ba3910_ls_m.jpg)

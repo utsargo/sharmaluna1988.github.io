@@ -1,13 +1,13 @@
 ---
-id: 682
-title: 'কোথায় যাবো!'
-date: '2017-03-29T00:13:30+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=682'
-permalink: /kothay-jabo/
+title: কোথায় যাবো!
+date: 2017-03-29 06:13:30 +06:00
+permalink: "/kothay-jabo/"
 categories:
-    - কবিতা
+- কবিতা
+id: 682
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=682
 ---
 
 একটার পর একটা দিন ঝরে পড়ে,  

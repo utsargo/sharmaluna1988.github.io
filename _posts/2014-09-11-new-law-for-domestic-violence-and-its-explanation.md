@@ -1,13 +1,13 @@
 ---
-id: 863
-title: 'পারিবারিক নির্যাতন বন্ধে নতুন আইন ও সাধারণের চোখে ব্যাখ্যা'
-date: '2014-09-11T10:19:58+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=863'
-permalink: /new-law-for-domestic-violence-and-its-explanation/
+title: পারিবারিক নির্যাতন বন্ধে নতুন আইন ও সাধারণের চোখে ব্যাখ্যা
+date: 2014-09-11 16:19:58 +06:00
+permalink: "/new-law-for-domestic-violence-and-its-explanation/"
 categories:
-    - মাথাব্যাথা
+- মাথাব্যাথা
+id: 863
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=863
 ---
 
 বাংলাদেশে পারিবারিক নির্যাতন বন্ধে নতুন আইন আসছে। যদিও এটা নিয়ে বেশ ঘোলাটে ধারণা ইতোমধ্যেই তৈরি হয়েছে। আসুন দেখি কী কী নীতিমালা নেয়া হয়েছে, কোন স্বামী যদি নিম্নোক্ত কাজগুলো ক্রিমিনাল অফেন্স হিসাবে গণ্য হবে।

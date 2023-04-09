@@ -1,21 +1,22 @@
 ---
-id: 44
-title: '&#8216;প্রাক্তন&#8217; দাম্পত্য ও আধুনিক নারী-পুরুষের টানাপোড়েন ও দ্বন্দ্বের ছবি'
-date: '2016-12-20T17:48:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://bn.sharmaluna.com/2016/12/20/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a8-%e0%a6%a6%e0%a6%be%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a6%a4%e0%a7%8d%e0%a6%af-%e0%a6%93-%e0%a6%86%e0%a6%a7%e0%a7%81%e0%a6%a8/'
-permalink: /praktan-movie-of-modern-husband-wife/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2016/12/blog-post_20.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/813585241443770986
+title: "&#8216;প্রাক্তন&#8217; দাম্পত্য ও আধুনিক নারী-পুরুষের টানাপোড়েন ও দ্বন্দ্বের
+  ছবি"
+date: 2016-12-20 23:48:00 +06:00
+permalink: "/praktan-movie-of-modern-husband-wife/"
 categories:
-    - রিভিউ
+- রিভিউ
+id: 44
+author: শর্মা লুনা
+layout: post
+guid: http://bn.sharmaluna.com/2016/12/20/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a8-%e0%a6%a6%e0%a6%be%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a6%a4%e0%a7%8d%e0%a6%af-%e0%a6%93-%e0%a6%86%e0%a6%a7%e0%a7%81%e0%a6%a8/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2016/12/blog-post_20.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/813585241443770986"
 ---
 
 <div dir="ltr" style="text-align: left;"><div style="background-color: white; color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; margin-bottom: 6px;">[![](https://4.bp.blogspot.com/-GzLdORya41Q/WFkaT1GhGtI/AAAAAAAAAjg/UMehYd8xskoKW13puek07Qms_dOXbtPugCK4B/s400/Poster%2Bbengali%2Bthree%2Bpeople.jpg)](http://4.bp.blogspot.com/-GzLdORya41Q/WFkaT1GhGtI/AAAAAAAAAjg/UMehYd8xskoKW13puek07Qms_dOXbtPugCK4B/s1600/Poster%2Bbengali%2Bthree%2Bpeople.jpg)</div>‘প্রাক্তন’ দেখলাম। সুন্দর সুস্থ বিনোদনের ভাবনা জাগানীয়া চলচিত্র। গানগুলো সত্যিই বার বার শোনার মত। মাঝে মাঝে আমি কেবলই ভাবি আমরা এভাবে ভাল ও মন্দ চলচিত্রের জন্য, বিনোদনের জন্য ভারতীয় চলচিত্রের উপর কেন ও কিভাবে নীর্ভরশীল হয়ে পরছি। আগ্রাসী সংস্কৃতি বলে আসলে কিছু নেই। Survival of the fittest. আমাদের মেধাবী নির্মাতা ও রুচিশীল প্রযোজককে প্রনোদনা দিতে হবে। এবং সরকারের কৌশল বদলাতে হবে, তৎপর হতে হবে। এছাড়া মুক্তি অসম্ভব। আরেকটা আয়নাবাজী কবে আসবে, জনগন সে পর্যন্ত অপেক্ষায় থাকবেনা।  

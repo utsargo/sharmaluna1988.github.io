@@ -1,13 +1,13 @@
 ---
-id: 909
-title: 'এই শতকের প্রশ্নাবলী-১'
-date: '2017-11-24T13:00:46+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://sharmaluna.com/?p=909'
-permalink: /21st-century-questionnaire-1/
+title: এই শতকের প্রশ্নাবলী-১
+date: 2017-11-24 19:00:46 +06:00
+permalink: "/21st-century-questionnaire-1/"
 categories:
-    - কবিতা
+- কবিতা
+id: 909
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=909
 ---
 
 কবিতা নাকি বড়ই ব্যক্তিগত ব্যাপার  

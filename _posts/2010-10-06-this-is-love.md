@@ -1,13 +1,13 @@
 ---
-id: 731
-title: 'এই তো প্রেম'
-date: '2010-10-06T13:21:11+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=731'
-permalink: /this-is-love/
+title: এই তো প্রেম
+date: 2010-10-06 19:21:11 +06:00
+permalink: "/this-is-love/"
 categories:
-    - কবিতা
+- কবিতা
+id: 731
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=731
 ---
 
 প্রহর গুণি চরণ ধ্বনির  

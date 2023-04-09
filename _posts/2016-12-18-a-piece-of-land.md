@@ -1,21 +1,21 @@
 ---
-id: 48
-title: 'এক খন্ড দেশ'
-date: '2016-12-18T05:44:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://bn.sharmaluna.com/2016/12/18/%e0%a6%8f%e0%a6%95-%e0%a6%96%e0%a6%a8%e0%a7%8d%e0%a6%a1-%e0%a6%a6%e0%a7%87%e0%a6%b6/'
-permalink: /a-piece-of-land/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2016/12/blog-post_17.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/3500801174091042692
+title: এক খন্ড দেশ
+date: 2016-12-18 11:44:00 +06:00
+permalink: "/a-piece-of-land/"
 categories:
-    - গল্প
+- গল্প
+id: 48
+author: শর্মা লুনা
+layout: post
+guid: http://bn.sharmaluna.com/2016/12/18/%e0%a6%8f%e0%a6%95-%e0%a6%96%e0%a6%a8%e0%a7%8d%e0%a6%a1-%e0%a6%a6%e0%a7%87%e0%a6%b6/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2016/12/blog-post_17.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/3500801174091042692"
 ---
 
 ![](http://4.bp.blogspot.com/-3T8Ykh648Q0/WFXNrM6gmMI/AAAAAAAAAiA/oEP8GNCp1hIKU3KDdIyg5tkIKOJzUKc3wCK4B/s1600/10177255_755726061144095_8594444175828996017_n.jpg)

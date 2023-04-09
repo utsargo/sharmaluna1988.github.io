@@ -1,13 +1,13 @@
 ---
-id: 902
-title: "বাঙালির বড় ছেলে তত্ত্ব"
-date: "2017-09-17T10:25:26+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=902"
-permalink: /boro-chele-natok-review/
+title: বাঙালির বড় ছেলে তত্ত্ব
+date: 2017-09-17 16:25:26 +06:00
+permalink: "/boro-chele-natok-review/"
 categories:
-  - রিভিউ
+- রিভিউ
+id: 902
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=902
 ---
 
 [![](/assets/images/wp-content/uploads/2017/11/borochhele.jpg)](/assets/images/wp-content/uploads/2017/11/borochhele.jpg)

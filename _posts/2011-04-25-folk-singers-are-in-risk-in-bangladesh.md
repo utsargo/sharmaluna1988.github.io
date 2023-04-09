@@ -1,21 +1,21 @@
 ---
-id: 39
-title: 'বাউল নাকি ফাউল!(কিছু প্রাসঙ্গিক প্রশ্নের উত্তর)'
-date: '2011-04-25T01:43:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://sharmaluna.local/folk-singers-are-in-risk-in-bangladesh/'
-permalink: /folk-singers-are-in-risk-in-bangladesh/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2017/02/blog-post.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/5754927470899002048
+title: বাউল নাকি ফাউল!(কিছু প্রাসঙ্গিক প্রশ্নের উত্তর)
+date: 2011-04-25 07:43:00 +06:00
+permalink: "/folk-singers-are-in-risk-in-bangladesh/"
 categories:
-    - মাথাব্যাথা
+- মাথাব্যাথা
+id: 39
+author: শর্মা লুনা
+layout: post
+guid: http://sharmaluna.local/folk-singers-are-in-risk-in-bangladesh/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2017/02/blog-post.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/5754927470899002048"
 ---
 
 ![](https://2.bp.blogspot.com/-sTMTF4QoSa0/WKdZnotEhsI/AAAAAAAAAmI/t7lMljqLNh8juokjVOnu-9Zb8klr4cU4ACLcB/s1600/MI0002921167.jpg)

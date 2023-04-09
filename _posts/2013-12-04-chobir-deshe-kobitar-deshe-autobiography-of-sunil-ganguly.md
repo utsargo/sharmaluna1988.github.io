@@ -1,21 +1,21 @@
 ---
-id: 52
-title: 'ছবির দেশে কবিতার দেশেঃ সুনীলের নাটিকীয় আত্মজীবনী'
-date: '2013-12-04T15:32:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://bn.sharmaluna.com/2016/10/25/%e0%a6%9b%e0%a6%ac%e0%a6%bf%e0%a6%b0-%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%87-%e0%a6%95%e0%a6%ac%e0%a6%bf%e0%a6%a4%e0%a6%be%e0%a6%b0-%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%87%e0%a6%83-%e0%a6%b8%e0%a7%81/'
-permalink: /chobir-deshe-kobitar-deshe-autobiography-of-sunil-ganguly/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2016/10/blog-post_25.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/7984885601309849779
+title: ছবির দেশে কবিতার দেশেঃ সুনীলের নাটিকীয় আত্মজীবনী
+date: 2013-12-04 21:32:00 +06:00
+permalink: "/chobir-deshe-kobitar-deshe-autobiography-of-sunil-ganguly/"
 categories:
-    - রিভিউ
+- রিভিউ
+id: 52
+author: শর্মা লুনা
+layout: post
+guid: http://bn.sharmaluna.com/2016/10/25/%e0%a6%9b%e0%a6%ac%e0%a6%bf%e0%a6%b0-%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%87-%e0%a6%95%e0%a6%ac%e0%a6%bf%e0%a6%a4%e0%a6%be%e0%a6%b0-%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%87%e0%a6%83-%e0%a6%b8%e0%a7%81/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2016/10/blog-post_25.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/7984885601309849779"
 ---
 
 ![](https://3.bp.blogspot.com/-YsK8vtVK2lE/WA8mhDpl5PI/AAAAAAAAAek/HIuSK3smTk8lG-9Czt4yZqzE-tmqkUxwQCK4B/s640/5e5a8-chobirdeshaykobitardeshaybysunilgangopadhay5bfotpat995d.jpg)

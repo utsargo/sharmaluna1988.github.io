@@ -1,13 +1,13 @@
 ---
-id: 859
-title: "পিকের কথা"
-date: "2015-01-06T11:26:07+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://bn.sharmaluna.com/?p=859"
-permalink: /story-of-pk/
+title: পিকের কথা
+date: 2015-01-06 17:26:07 +06:00
+permalink: "/story-of-pk/"
 categories:
-  - রিভিউ
+- রিভিউ
+id: 859
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=859
 ---
 
 [![Pk movie, pk, sharmaluna blog](/assets/images/wp-content/uploads/2015/01/79934580_pk1jpg.jpg)](/assets/images/wp-content/uploads/2015/01/79934580_pk1jpg.jpg)

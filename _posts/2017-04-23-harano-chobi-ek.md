@@ -1,13 +1,13 @@
 ---
-id: 688
-title: 'হারানো ছবি &#8211; এক'
-date: '2017-04-23T00:19:06+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=688'
-permalink: /harano-chobi-ek/
+title: হারানো ছবি &#8211; এক
+date: 2017-04-23 06:19:06 +06:00
+permalink: "/harano-chobi-ek/"
 categories:
-    - কবিতা
+- কবিতা
+id: 688
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=688
 ---
 
 দূরে কীর্তনের সুর  

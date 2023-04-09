@@ -1,21 +1,21 @@
 ---
-id: 29
-title: "কবর দেবো"
-date: "2013-10-01T00:36:00+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "http://sharmaluna.local/kobor-debo/"
-permalink: /kobor-debo/
-blogger_blog:
-  - sharmaluna.blogspot.com
-blogger_author:
-  - "Sharma Luna"
-blogger_permalink:
-  - /2017/02/blog-post_97.html
-blogger_internal:
-  - /feeds/879179443059716192/posts/default/1486450131935809207
+title: কবর দেবো
+date: 2013-10-01 06:36:00 +06:00
+permalink: "/kobor-debo/"
 categories:
-  - কবিতা
+- কবিতা
+id: 29
+author: শর্মা লুনা
+layout: post
+guid: http://sharmaluna.local/kobor-debo/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2017/02/blog-post_97.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/1486450131935809207"
 ---
 
 [![](/assets/images/wp-content/uploads/2017/02/monpobon_1380620066_1-1187166_554195271308982_1324591515_n-1.jpg)](/assets/images/wp-content/uploads/2017/02/monpobon_1380620066_1-1187166_554195271308982_1324591515_n-1.jpg)

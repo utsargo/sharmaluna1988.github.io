@@ -1,21 +1,21 @@
 ---
-id: 45
-title: 'আর কোন বিতর্ক বা বিভ্রান্তির সুযোগ দিতে চাইনা'
-date: '2016-12-19T01:01:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://bn.sharmaluna.com/2016/12/19/%e0%a6%86%e0%a6%b0-%e0%a6%95%e0%a7%8b%e0%a6%a8-%e0%a6%ac%e0%a6%bf%e0%a6%a4%e0%a6%b0%e0%a7%8d%e0%a6%95-%e0%a6%ac%e0%a6%be-%e0%a6%ac%e0%a6%bf%e0%a6%ad%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a7%8d/'
-permalink: /no-space-for-liberation-war-debate/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2016/12/blog-post_18.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/9062334358943069402
+title: আর কোন বিতর্ক বা বিভ্রান্তির সুযোগ দিতে চাইনা
+date: 2016-12-19 07:01:00 +06:00
+permalink: "/no-space-for-liberation-war-debate/"
 categories:
-    - সংযুক্তি
+- সংযুক্তি
+id: 45
+author: শর্মা লুনা
+layout: post
+guid: http://bn.sharmaluna.com/2016/12/19/%e0%a6%86%e0%a6%b0-%e0%a6%95%e0%a7%8b%e0%a6%a8-%e0%a6%ac%e0%a6%bf%e0%a6%a4%e0%a6%b0%e0%a7%8d%e0%a6%95-%e0%a6%ac%e0%a6%be-%e0%a6%ac%e0%a6%bf%e0%a6%ad%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a7%8d/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2016/12/blog-post_18.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/9062334358943069402"
 ---
 
 <div dir="ltr" style="text-align: left;">[![](https://2.bp.blogspot.com/-c17sCoDS4E8/WFbc9wQ6r-I/AAAAAAAAAi4/UCpZcRxZhVQXWPJxvE0gsaebTo1PLnMZQCK4B/s400/3njd3adb.bmp)](http://2.bp.blogspot.com/-c17sCoDS4E8/WFbc9wQ6r-I/AAAAAAAAAi4/UCpZcRxZhVQXWPJxvE0gsaebTo1PLnMZQCK4B/s1600/3njd3adb.bmp)

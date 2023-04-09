@@ -1,21 +1,21 @@
 ---
-id: 49
-title: 'সিডর ও একটি শাড়ির গল্প'
-date: '2010-05-02T05:41:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://bn.sharmaluna.com/2016/12/18/%e0%a6%b8%e0%a6%bf%e0%a6%a1%e0%a6%b0-%e0%a6%93-%e0%a6%8f%e0%a6%95%e0%a6%9f%e0%a6%bf-%e0%a6%b6%e0%a6%be%e0%a7%9c%e0%a6%bf%e0%a6%b0-%e0%a6%97%e0%a6%b2%e0%a7%8d%e0%a6%aa/'
-permalink: /sidor-and-a-story-of-saree/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2016/12/blog-post.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/3120494420842850364
+title: সিডর ও একটি শাড়ির গল্প
+date: 2010-05-02 11:41:00 +06:00
+permalink: "/sidor-and-a-story-of-saree/"
 categories:
-    - গল্প
+- গল্প
+id: 49
+author: শর্মা লুনা
+layout: post
+guid: http://bn.sharmaluna.com/2016/12/18/%e0%a6%b8%e0%a6%bf%e0%a6%a1%e0%a6%b0-%e0%a6%93-%e0%a6%8f%e0%a6%95%e0%a6%9f%e0%a6%bf-%e0%a6%b6%e0%a6%be%e0%a7%9c%e0%a6%bf%e0%a6%b0-%e0%a6%97%e0%a6%b2%e0%a7%8d%e0%a6%aa/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2016/12/blog-post.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/3120494420842850364"
 ---
 
 ![](https://4.bp.blogspot.com/-cxe1ucQaUFQ/WFXNHLpszKI/AAAAAAAAAh4/KSyf1eEH2s8_Eh18DoT3VJX3GYLfT-nrwCK4B/s400/2007-07-30__front01.jpg)

@@ -1,13 +1,13 @@
 ---
-id: 737
 title: মায়া
-date: '2011-04-26T13:26:05+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=737'
-permalink: /affection/
+date: 2011-04-26 19:26:05 +06:00
+permalink: "/affection/"
 categories:
-    - কবিতা
+- কবিতা
+id: 737
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=737
 ---
 
 মায়া,  

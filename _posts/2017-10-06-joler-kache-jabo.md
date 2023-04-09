@@ -1,13 +1,13 @@
 ---
-id: 708
-title: "জলের কাছে যাব"
-date: "2017-10-06T00:39:48+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://bn.sharmaluna.com/?p=708"
-permalink: /joler-kache-jabo/
+title: জলের কাছে যাব
+date: 2017-10-06 06:39:48 +06:00
+permalink: "/joler-kache-jabo/"
 categories:
-  - কবিতা
+- কবিতা
+id: 708
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=708
 ---
 
 [![](/assets/images/wp-content/uploads/2017/10/22196229_1713518741992118_461234729957525691_n.jpg)](/assets/images/wp-content/uploads/2017/10/22196229_1713518741992118_461234729957525691_n.jpg)

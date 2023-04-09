@@ -1,13 +1,13 @@
 ---
-id: 918
-title: 'অত্যাবশ্যকীয় Life Skill'
-date: '2017-12-10T15:26:49+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://sharmaluna.com/?p=918'
-permalink: /why-we-need-life-skill/
+title: অত্যাবশ্যকীয় Life Skill
+date: 2017-12-10 21:26:49 +06:00
+permalink: "/why-we-need-life-skill/"
 categories:
-    - প্রেরণা
+- প্রেরণা
+id: 918
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=918
 ---
 
 কিছু Basic Life Skill আছে। তার মধ্যে রান্না আর ঘর গোছানো একটা। এটা ছেলে-মেয়ে সবারই থাকতে হবে। এই বিষয়ে যারা নারীবাদী ভূত খোঁজেন তারা আসলে মানবিক না (ভদ্রভাবে বললাম)। নিজের অলসতা ও অন্যদেরকে দিয়ে সেটা করানোর জন্য ধর্ম আর সংস্কৃতির দোহাই দিতে থাকে এরা অনবরত।

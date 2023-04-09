@@ -1,13 +1,13 @@
 ---
-id: 949
-title: 'সস্তা এবং সোজা সাপটা'
-date: '2018-01-20T13:54:06+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://sharmaluna.com/?p=949'
-permalink: /poetry-on-twenty-fist-modernization/
+title: সস্তা এবং সোজা সাপটা
+date: 2018-01-20 19:54:06 +06:00
+permalink: "/poetry-on-twenty-fist-modernization/"
 categories:
-    - কবিতা
+- কবিতা
+id: 949
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=949
 ---
 
 ১.  

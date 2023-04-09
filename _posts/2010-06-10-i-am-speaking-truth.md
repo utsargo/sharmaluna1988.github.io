@@ -1,13 +1,13 @@
 ---
-id: 733
-title: 'সত্যভাষী হলাম'
-date: '2010-06-10T13:22:57+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=733'
-permalink: /i-am-speaking-truth/
+title: সত্যভাষী হলাম
+date: 2010-06-10 19:22:57 +06:00
+permalink: "/i-am-speaking-truth/"
 categories:
-    - কবিতা
+- কবিতা
+id: 733
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=733
 ---
 
 সেদিন ছিল ভরা বৈশাখ  

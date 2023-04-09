@@ -1,18 +1,18 @@
 ---
-id: 1373
-title: "ভালবাসার জন্য &#8216;No Regret&#8217;"
-date: "2020-02-14T00:37:08+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=1373"
-permalink: /valentines-day-special/
+title: ভালবাসার জন্য &#8216;No Regret&#8217;
+date: 2020-02-14 06:37:08 +06:00
+permalink: "/valentines-day-special/"
 categories:
-  - প্রেরণা
-  - মাথাব্যাথা
+- প্রেরণা
+- মাথাব্যাথা
 tags:
-  - love
-  - "valentine's day"
-  - "what is love"
+- love
+- valentine's day
+- what is love
+id: 1373
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=1373
 ---
 
 [![](/assets/images/wp-content/uploads/2020/02/1163937002-love-life-try-things-no-regrets-1_c5d25e137d331babfd0cbcb7ee9dd656.jpg)](/assets/images/wp-content/uploads/2020/02/1163937002-love-life-try-things-no-regrets-1_c5d25e137d331babfd0cbcb7ee9dd656.jpg)

@@ -1,13 +1,13 @@
 ---
-id: 1259
 title: অনুকবিতা
-date: "2019-02-26T04:28:36+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=1259"
-permalink: /poetry_february/
+date: 2019-02-26 10:28:36 +06:00
+permalink: "/poetry_february/"
 categories:
-  - কবিতা
+- কবিতা
+id: 1259
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=1259
 ---
 
 [![](/assets/images/wp-content/uploads/2019/02/52527246_2368830323127620_1922629908052312064_n.jpg)](/assets/images/wp-content/uploads/2019/02/52527246_2368830323127620_1922629908052312064_n.jpg)

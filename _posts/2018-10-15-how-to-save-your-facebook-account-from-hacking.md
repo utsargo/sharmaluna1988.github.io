@@ -1,32 +1,32 @@
 ---
-id: 1034
-title: "কিভাবে হ্যাক হওয়া থেকে বাঁচবেন (ফেজবুক অবজার্ভেশন-২)"
-date: "2018-10-15T17:52:56+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=1034"
-permalink: /how-to-save-your-facebook-account-from-hacking/
+title: কিভাবে হ্যাক হওয়া থেকে বাঁচবেন (ফেজবুক অবজার্ভেশন-২)
+date: 2018-10-15 23:52:56 +06:00
+permalink: "/how-to-save-your-facebook-account-from-hacking/"
 categories:
-  - "প্রযুক্তির নেশা"
+- প্রযুক্তির নেশা
 tags:
-  - "Account Settings"
-  - "authentication app"
-  - "facbook Notification"
-  - facebook
-  - "facebook campaign"
-  - "facebook marketing"
-  - "facebook observation"
-  - "how to save your facebook account"
-  - "Linked Accounts"
-  - "Mind Game"
-  - Name
-  - Password
-  - "Security and Login"
-  - "View As"
-  - "কিভাবে হ্যাক হওয়া থেকে বাঁচবেন"
-  - "তথ্য ফাঁস"
-  - ফেজবুক
-  - ফেসবুক
+- Account Settings
+- authentication app
+- facbook Notification
+- facebook
+- facebook campaign
+- facebook marketing
+- facebook observation
+- how to save your facebook account
+- Linked Accounts
+- Mind Game
+- Name
+- Password
+- Security and Login
+- View As
+- কিভাবে হ্যাক হওয়া থেকে বাঁচবেন
+- তথ্য ফাঁস
+- ফেজবুক
+- ফেসবুক
+id: 1034
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=1034
 ---
 
 [![](/assets/images/wp-content/uploads/2018/10/How-to-Check-and-Recover-Your-Hacked-Facebook-Account-1-1.png)](/assets/images/wp-content/uploads/2018/10/How-to-Check-and-Recover-Your-Hacked-Facebook-Account-1-1.png)

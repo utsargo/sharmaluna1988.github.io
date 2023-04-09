@@ -1,21 +1,21 @@
 ---
-id: 35
-title: 'কিচ্ছু আমার যায় আসে না (সুনীল স্মরণে)'
-date: '2012-11-05T00:09:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://sharmaluna.local/i-dont-care-tribute-to-shunil-ganguly/'
-permalink: /i-dont-care-tribute-to-shunil-ganguly/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2017/02/blog-post_75.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/5144971043130103834
+title: কিচ্ছু আমার যায় আসে না (সুনীল স্মরণে)
+date: 2012-11-05 06:09:00 +06:00
+permalink: "/i-dont-care-tribute-to-shunil-ganguly/"
 categories:
-    - কবিতা
+- কবিতা
+id: 35
+author: শর্মা লুনা
+layout: post
+guid: http://sharmaluna.local/i-dont-care-tribute-to-shunil-ganguly/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2017/02/blog-post_75.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/5144971043130103834"
 ---
 
 বাক্যটা শোনার পর থেকে প্রতিক্রিয়াহীন  

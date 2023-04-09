@@ -1,13 +1,13 @@
 ---
-id: 569
-title: 'রবীন্দ্রনাথের বংশ পরিচয়ের গল্প(গাজাখুড়ি নয়)'
-date: '2015-01-24T01:35:18+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=569'
-permalink: /rabindranth-tagores-family-history/
+title: রবীন্দ্রনাথের বংশ পরিচয়ের গল্প(গাজাখুড়ি নয়)
+date: 2015-01-24 07:35:18 +06:00
+permalink: "/rabindranth-tagores-family-history/"
 categories:
-    - Uncategorized
+- Uncategorized
+id: 569
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=569
 ---
 
 রবীন্দ্রনাথ ঠাকুরের বংশ ও শিকড় সম্পর্কে সুনীল গংগোপধ্যায়ের “সেই সময়” উপন্যাসে গল্প আছে মজার তবে গাজাখুড়ি নয়।রবীঠাকুরের পরিবার কলকাতার সবচেয়ে প্রাচীন ব্রাক্ষ্মণ পরিবার।তাদের পূর্বপুরুষদের বলা হত “পীরালীর বামুন”।কারন তাদের পরিবারের সাথে একজন মুসলমান পরগনাদারের নাম যুক্ত আছে।

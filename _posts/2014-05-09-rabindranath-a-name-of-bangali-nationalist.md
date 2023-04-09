@@ -1,13 +1,13 @@
 ---
-id: 877
-title: "রবীন্দ্রনাথ &#8211; বাঙালির জাতীয়তাবাদ ও চেতনার আরেক নাম"
-date: "2014-05-09T11:17:09+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=877"
-permalink: /rabindranath-a-name-of-bangali-nationalist/
+title: রবীন্দ্রনাথ &#8211; বাঙালির জাতীয়তাবাদ ও চেতনার আরেক নাম
+date: 2014-05-09 17:17:09 +06:00
+permalink: "/rabindranath-a-name-of-bangali-nationalist/"
 categories:
-  - প্রেরণা
+- প্রেরণা
+id: 877
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=877
 ---
 
 [![](/assets/images/wp-content/uploads/2017/11/935779_598326716844665_1433284018_n.jpg)](/assets/images/wp-content/uploads/2017/11/935779_598326716844665_1433284018_n.jpg)

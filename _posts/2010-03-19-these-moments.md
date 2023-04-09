@@ -1,21 +1,21 @@
 ---
-id: 34
-title: 'এইসব মুহুর্ত'
-date: '2010-03-19T00:21:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://sharmaluna.local/these-moments/'
-permalink: /these-moments/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2017/02/blog-post_25.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/545873721939325226
+title: এইসব মুহুর্ত
+date: 2010-03-19 06:21:00 +06:00
+permalink: "/these-moments/"
 categories:
-    - কবিতা
+- কবিতা
+id: 34
+author: শর্মা লুনা
+layout: post
+guid: http://sharmaluna.local/these-moments/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2017/02/blog-post_25.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/545873721939325226"
 ---
 
 বাতাস এসে বুকের ঠিক মাঝখানটাতে  

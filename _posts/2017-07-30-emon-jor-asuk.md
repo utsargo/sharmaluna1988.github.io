@@ -1,13 +1,13 @@
 ---
-id: 718
-title: 'এমন জ্বর আসুক'
-date: '2017-07-30T00:47:59+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=718'
-permalink: /emon-jor-asuk/
+title: এমন জ্বর আসুক
+date: 2017-07-30 06:47:59 +06:00
+permalink: "/emon-jor-asuk/"
 categories:
-    - কবিতা
+- কবিতা
+id: 718
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=718
 ---
 
 আবার জ্বর আসার ফুরসত হল  

@@ -1,13 +1,13 @@
 ---
-id: 722
 title: কালপুরুষ
-date: "2017-11-04T00:54:21+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://bn.sharmaluna.com/?p=722"
-permalink: /kalpurush/
+date: 2017-11-04 06:54:21 +06:00
+permalink: "/kalpurush/"
 categories:
-  - কবিতা
+- কবিতা
+id: 722
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=722
 ---
 
 [![](/assets/images/wp-content/uploads/2017/11/23279015_1744593365551322_9202189996885278720_n.jpg)](/assets/images/wp-content/uploads/2017/11/23279015_1744593365551322_9202189996885278720_n.jpg)

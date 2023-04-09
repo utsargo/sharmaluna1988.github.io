@@ -1,13 +1,13 @@
 ---
-id: 646
-title: 'কেন আমার জ্বর আসে &#8211; এক'
-date: '2017-01-31T17:51:10+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=646'
-permalink: /keno-amar-jor-ase-1/
+title: কেন আমার জ্বর আসে &#8211; এক
+date: 2017-01-31 23:51:10 +06:00
+permalink: "/keno-amar-jor-ase-1/"
 categories:
-    - কবিতা
+- কবিতা
+id: 646
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=646
 ---
 
 মাঝে মাঝে অসুস্থ বোধ করি  

@@ -1,13 +1,13 @@
 ---
-id: 1008
-title: "নস্টালজিক ধানমন্ডি"
-date: "2018-04-29T17:00:03+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=1008"
-permalink: /nostalgic-dhanmandi/
+title: নস্টালজিক ধানমন্ডি
+date: 2018-04-29 23:00:03 +06:00
+permalink: "/nostalgic-dhanmandi/"
 categories:
-  - কবিতা
+- কবিতা
+id: 1008
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=1008
 ---
 
 [![Poetry of Sharma Luna](/assets/images/wp-content/uploads/2018/04/Dhanmondi-Lake.jpg)](/assets/images/wp-content/uploads/2018/04/Dhanmondi-Lake.jpg)

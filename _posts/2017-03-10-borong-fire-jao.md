@@ -1,13 +1,13 @@
 ---
-id: 678
-title: 'বরং ফিরে যাও'
-date: '2017-03-10T00:10:57+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=678'
-permalink: /borong-fire-jao/
+title: বরং ফিরে যাও
+date: 2017-03-10 06:10:57 +06:00
+permalink: "/borong-fire-jao/"
 categories:
-    - কবিতা
+- কবিতা
+id: 678
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=678
 ---
 
 শহুরে মানুষ,  

@@ -1,21 +1,21 @@
 ---
-id: 71
-title: 'যখন ছিলাম দস্যু বনহূর-২'
-date: '2010-06-29T15:11:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://bn.sharmaluna.com/2016/10/04/%e0%a6%af%e0%a6%96%e0%a6%a8-%e0%a6%9b%e0%a6%bf%e0%a6%b2%e0%a6%be%e0%a6%ae-%e0%a6%a6%e0%a6%b8%e0%a7%8d%e0%a6%af%e0%a7%81-%e0%a6%ac%e0%a6%a8%e0%a6%b9%e0%a7%82%e0%a6%b0-%e0%a7%a8/'
-permalink: /when-i-was-dosshu-banahur-2/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2016/10/blog-post.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/4780749518869578700
+title: যখন ছিলাম দস্যু বনহূর-২
+date: 2010-06-29 21:11:00 +06:00
+permalink: "/when-i-was-dosshu-banahur-2/"
 categories:
-    - দিনলিপি
+- দিনলিপি
+id: 71
+author: শর্মা লুনা
+layout: post
+guid: http://bn.sharmaluna.com/2016/10/04/%e0%a6%af%e0%a6%96%e0%a6%a8-%e0%a6%9b%e0%a6%bf%e0%a6%b2%e0%a6%be%e0%a6%ae-%e0%a6%a6%e0%a6%b8%e0%a7%8d%e0%a6%af%e0%a7%81-%e0%a6%ac%e0%a6%a8%e0%a6%b9%e0%a7%82%e0%a6%b0-%e0%a7%a8/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2016/10/blog-post.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/4780749518869578700"
 ---
 
 ![](https://2.bp.blogspot.com/-DhxS5hp57ms/V_OwfwW9unI/AAAAAAAAAXI/KH87Qz9W9swErvTNjEZAS5AfWdJ1aipIQCK4B/s640/10835092_10152926657602590_3148378260723674751_o%2B%25281%2529.jpg)

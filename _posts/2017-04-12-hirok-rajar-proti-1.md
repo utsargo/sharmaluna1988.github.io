@@ -1,13 +1,13 @@
 ---
-id: 686
-title: 'হীরক রাজার প্রতি &#8211; এক'
-date: '2017-04-12T00:17:09+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=686'
-permalink: /hirok-rajar-proti-1/
+title: হীরক রাজার প্রতি &#8211; এক
+date: 2017-04-12 06:17:09 +06:00
+permalink: "/hirok-rajar-proti-1/"
 categories:
-    - কবিতা
+- কবিতা
+id: 686
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=686
 ---
 
 রাজা,  

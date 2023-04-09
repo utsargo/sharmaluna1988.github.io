@@ -1,13 +1,13 @@
 ---
-id: 739
-title: '২৩ অক্টোবর রাতটা'
-date: '2012-10-23T13:28:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=739'
-permalink: /tribute-to-shunil-ganguly/
+title: ২৩ অক্টোবর রাতটা
+date: 2012-10-23 19:28:00 +06:00
+permalink: "/tribute-to-shunil-ganguly/"
 categories:
-    - কবিতা
+- কবিতা
+id: 739
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=739
 ---
 
 ২৩ অক্টোবর রাতটা  

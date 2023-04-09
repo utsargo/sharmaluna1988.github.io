@@ -1,13 +1,13 @@
 ---
-id: 692
-title: 'চেক অ্যান্ড ব্যালান্স'
-date: '2017-05-18T00:23:10+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=692'
-permalink: /check-and-balance/
+title: চেক অ্যান্ড ব্যালান্স
+date: 2017-05-18 06:23:10 +06:00
+permalink: "/check-and-balance/"
 categories:
-    - কবিতা
+- কবিতা
+id: 692
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=692
 ---
 
 কবিতা কিংবা কর্পোরেট জব  

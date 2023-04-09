@@ -1,13 +1,13 @@
 ---
-id: 716
-title: 'শেষ ভরসা (সুইসাইড নোট সিরিজ)'
-date: '2017-08-03T00:46:04+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=716'
-permalink: /suicide-note-series/
+title: শেষ ভরসা (সুইসাইড নোট সিরিজ)
+date: 2017-08-03 06:46:04 +06:00
+permalink: "/suicide-note-series/"
 categories:
-    - কবিতা
+- কবিতা
+id: 716
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=716
 ---
 
 জীবনানন্দ, কাফকা আর শার্লককে  

@@ -1,21 +1,21 @@
 ---
-id: 47
-title: 'ফেসবুক জীবনে প্রেম'
-date: '2016-12-18T06:01:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://bn.sharmaluna.com/2016/12/18/%e0%a6%ab%e0%a7%87%e0%a6%b8%e0%a6%ac%e0%a7%81%e0%a6%95-%e0%a6%9c%e0%a7%80%e0%a6%ac%e0%a6%a8%e0%a7%87-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%ae/'
-permalink: /love-in-facebook-life/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2016/12/blog-post_74.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/2278865858284163540
+title: ফেসবুক জীবনে প্রেম
+date: 2016-12-18 12:01:00 +06:00
+permalink: "/love-in-facebook-life/"
 categories:
-    - গল্প
+- গল্প
+id: 47
+author: শর্মা লুনা
+layout: post
+guid: http://bn.sharmaluna.com/2016/12/18/%e0%a6%ab%e0%a7%87%e0%a6%b8%e0%a6%ac%e0%a7%81%e0%a6%95-%e0%a6%9c%e0%a7%80%e0%a6%ac%e0%a6%a8%e0%a7%87-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%ae/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2016/12/blog-post_74.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/2278865858284163540"
 ---
 
 <span style="background-color: white; color: #333333; font-family: 'solaimanlipi'; font-size: 18px; text-align: justify;">[![](https://4.bp.blogspot.com/-6vgf-u_63VQ/WFXRwtnuBNI/AAAAAAAAAiY/DwGFbrRyjd8cribTSGG1hwQJFCz_9fZxgCK4B/s400/Capture.JPG)](http://4.bp.blogspot.com/-6vgf-u_63VQ/WFXRwtnuBNI/AAAAAAAAAiY/DwGFbrRyjd8cribTSGG1hwQJFCz_9fZxgCK4B/s1600/Capture.JPG)</span>

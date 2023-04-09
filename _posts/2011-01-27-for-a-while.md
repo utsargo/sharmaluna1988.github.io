@@ -1,13 +1,13 @@
 ---
-id: 729
-title: 'এক পলকে'
-date: '2011-01-27T13:15:01+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=729'
-permalink: /for-a-while/
+title: এক পলকে
+date: 2011-01-27 19:15:01 +06:00
+permalink: "/for-a-while/"
 categories:
-    - কবিতা
+- কবিতা
+id: 729
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=729
 ---
 
 চলন্ত বাসের জানালা দিয়ে এক পলক,  

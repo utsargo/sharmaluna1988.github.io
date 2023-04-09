@@ -1,21 +1,21 @@
 ---
-id: 56
-title: 'আয়নাবাজীঃ মধ্যবিত্তকে হলে টানার বাংলা ছবি'
-date: '2016-10-06T01:39:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://bn.sharmaluna.com/2016/10/06/%e0%a6%86%e0%a7%9f%e0%a6%a8%e0%a6%be%e0%a6%ac%e0%a6%be%e0%a6%9c%e0%a7%80%e0%a6%83-%e0%a6%ae%e0%a6%a7%e0%a7%8d%e0%a6%af%e0%a6%ac%e0%a6%bf%e0%a6%a4%e0%a7%8d%e0%a6%a4%e0%a6%95%e0%a7%87-%e0%a6%b9%e0%a6%b2/'
-permalink: /aynabaji-review/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2016/10/blog-post_64.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/3730127188488095543
+title: আয়নাবাজীঃ মধ্যবিত্তকে হলে টানার বাংলা ছবি
+date: 2016-10-06 07:39:00 +06:00
+permalink: "/aynabaji-review/"
 categories:
-    - রিভিউ
+- রিভিউ
+id: 56
+author: শর্মা লুনা
+layout: post
+guid: http://bn.sharmaluna.com/2016/10/06/%e0%a6%86%e0%a7%9f%e0%a6%a8%e0%a6%be%e0%a6%ac%e0%a6%be%e0%a6%9c%e0%a7%80%e0%a6%83-%e0%a6%ae%e0%a6%a7%e0%a7%8d%e0%a6%af%e0%a6%ac%e0%a6%bf%e0%a6%a4%e0%a7%8d%e0%a6%a4%e0%a6%95%e0%a7%87-%e0%a6%b9%e0%a6%b2/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2016/10/blog-post_64.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/3730127188488095543"
 ---
 
 ![](https://1.bp.blogspot.com/-iGKIM0gwQ3A/V_VWpD9hIII/AAAAAAAAAcM/F4YBYvpihowUGCdwxCXskGE7deKLTZtLwCK4B/s640/gallery5%2B%25281%2529.jpg)

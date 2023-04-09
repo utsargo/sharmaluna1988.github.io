@@ -1,15 +1,15 @@
 ---
-id: 545
-title: 'ব্লগ জীবনের শুরুর কথা'
-date: '2013-04-01T01:18:39+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=545'
-permalink: /starting-blogging/
+title: ব্লগ জীবনের শুরুর কথা
+date: 2013-04-01 07:18:39 +06:00
+permalink: "/starting-blogging/"
 categories:
-    - দিনলিপি
+- দিনলিপি
 tags:
-    - 'শর্মা লুনা'
+- শর্মা লুনা
+id: 545
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=545
 ---
 
 ![](https://bn.sharmaluna.com/wp-content/uploads/2017/10/office-620817_960_720-300x199.jpg)

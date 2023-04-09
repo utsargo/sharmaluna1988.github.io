@@ -1,13 +1,13 @@
 ---
-id: 987
-title: "একটি বোকাতম প্রাচীন কাব্য (জীবনানন্দের প্রতি-২)"
-date: "2018-03-10T00:52:47+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=987"
-permalink: /tribute-to-jibonanondo/
+title: একটি বোকাতম প্রাচীন কাব্য (জীবনানন্দের প্রতি-২)
+date: 2018-03-10 06:52:47 +06:00
+permalink: "/tribute-to-jibonanondo/"
 categories:
-  - কবিতা
+- কবিতা
+id: 987
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=987
 ---
 
 [![](/assets/images/wp-content/uploads/2018/03/Jibanananda_Das1.jpg)](/assets/images/wp-content/uploads/2018/03/Jibanananda_Das1.jpg)

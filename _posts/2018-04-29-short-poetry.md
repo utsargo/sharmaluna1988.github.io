@@ -1,13 +1,13 @@
 ---
-id: 1004
 title: অনুকবিতা
-date: "2018-04-29T16:28:31+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=1004"
-permalink: /short-poetry/
+date: 2018-04-29 22:28:31 +06:00
+permalink: "/short-poetry/"
 categories:
-  - কবিতা
+- কবিতা
+id: 1004
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=1004
 ---
 
 [![Poetry of Sharma Luna](/assets/images/wp-content/uploads/2018/04/30960908_1940685685942088_2604312005619419936_o.jpg)](/assets/images/wp-content/uploads/2018/04/30960908_1940685685942088_2604312005619419936_o.jpg)

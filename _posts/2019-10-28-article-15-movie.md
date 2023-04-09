@@ -1,17 +1,17 @@
 ---
-id: 1326
-title: "যে ছবির জন্য হিন্দুত্ববাদী ভারত লজ্জিত"
-date: "2019-10-28T17:09:57+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=1326"
-permalink: /article-15-movie/
+title: যে ছবির জন্য হিন্দুত্ববাদী ভারত লজ্জিত
+date: 2019-10-28 23:09:57 +06:00
+permalink: "/article-15-movie/"
 categories:
-  - রিভিউ
+- রিভিউ
 tags:
-  - "article 15"
-  - "আয়ুষ্মান খুরানা"
-  - "আর্টিকেল ১৫"
+- article 15
+- আয়ুষ্মান খুরানা
+- আর্টিকেল ১৫
+id: 1326
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=1326
 ---
 
 <div class="_5pbx userContent _3576" data-ft="{"tn":"K"}" data-testid="post_message" id="js_x">[![](/assets/images/wp-content/uploads/2019/10/73280052_2810428302301151_8135352229734383616_n.jpg)](/assets/images/wp-content/uploads/2019/10/73280052_2810428302301151_8135352229734383616_n.jpg)

@@ -1,13 +1,13 @@
 ---
-id: 922
-title: "রবীন্দ্রনাথ যেভাবে প্রভাবিত করেছেন বলিউডকে"
-date: "2018-01-17T17:41:50+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=922"
-permalink: /how-rabindranath-tagore-affects-bollywood/
+title: রবীন্দ্রনাথ যেভাবে প্রভাবিত করেছেন বলিউডকে
+date: 2018-01-17 23:41:50 +06:00
+permalink: "/how-rabindranath-tagore-affects-bollywood/"
 categories:
-  - প্রেরণা
+- প্রেরণা
+id: 922
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=922
 ---
 
 [![](/assets/images/wp-content/uploads/2018/01/gulzar-and-rakhee-new-weds1.jpg)](/assets/images/wp-content/uploads/2018/01/gulzar-and-rakhee-new-weds1.jpg)

@@ -1,13 +1,13 @@
 ---
-id: 710
-title: 'এই কিন্তু আর যদি&#8217;র নগরে'
-date: '2017-09-11T00:41:16+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'https://bn.sharmaluna.com/?p=710'
-permalink: /ei-kintu-r-jodir-nogore/
+title: এই কিন্তু আর যদি&#8217;র নগরে
+date: 2017-09-11 06:41:16 +06:00
+permalink: "/ei-kintu-r-jodir-nogore/"
 categories:
-    - কবিতা
+- কবিতা
+id: 710
+author: শর্মা লুনা
+layout: post
+guid: https://bn.sharmaluna.com/?p=710
 ---
 
 এই কিন্তু আর যদি’র নগরে  

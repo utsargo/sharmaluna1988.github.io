@@ -1,21 +1,21 @@
 ---
-id: 60
-title: 'আমরা ৫২&#8217;র চেতনায় উজ্জীবিত&#8230;'
-date: '2016-10-05T01:17:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://bn.sharmaluna.com/2016/10/05/%e0%a6%86%e0%a6%ae%e0%a6%b0%e0%a6%be-%e0%a7%ab%e0%a7%a8%e0%a6%b0-%e0%a6%9a%e0%a7%87%e0%a6%a4%e0%a6%a8%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%89%e0%a6%9c%e0%a7%8d%e0%a6%9c%e0%a7%80%e0%a6%ac%e0%a6%bf/'
-permalink: /inspiration-of-1952-language-movement/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2016/10/blog-post_21.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/7022726688186158577
+title: আমরা ৫২&#8217;র চেতনায় উজ্জীবিত&#8230;
+date: 2016-10-05 07:17:00 +06:00
+permalink: "/inspiration-of-1952-language-movement/"
 categories:
-    - সংযুক্তি
+- সংযুক্তি
+id: 60
+author: শর্মা লুনা
+layout: post
+guid: http://bn.sharmaluna.com/2016/10/05/%e0%a6%86%e0%a6%ae%e0%a6%b0%e0%a6%be-%e0%a7%ab%e0%a7%a8%e0%a6%b0-%e0%a6%9a%e0%a7%87%e0%a6%a4%e0%a6%a8%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%89%e0%a6%9c%e0%a7%8d%e0%a6%9c%e0%a7%80%e0%a6%ac%e0%a6%bf/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2016/10/blog-post_21.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/7022726688186158577"
 ---
 
 ![](https://1.bp.blogspot.com/-8J7taCNMvwM/V_QBZpSIHMI/AAAAAAAAAaw/VjYajpBOtDQHxY4mg9SKN6vx0SIHZGwtACK4B/s400/1451401_639136429455765_711629943_n.jpg)

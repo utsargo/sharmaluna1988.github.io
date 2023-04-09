@@ -1,21 +1,21 @@
 ---
-id: 33
-title: 'সহজ চাওয়া'
-date: '2010-03-10T00:30:00+00:00'
-author: 'শর্মা লুনা'
-layout: post
-guid: 'http://sharmaluna.local/what-i-want/'
-permalink: /what-i-want/
-blogger_blog:
-    - sharmaluna.blogspot.com
-blogger_author:
-    - 'Sharma Luna'
-blogger_permalink:
-    - /2017/02/blog-post_56.html
-blogger_internal:
-    - /feeds/879179443059716192/posts/default/5917577479180550064
+title: সহজ চাওয়া
+date: 2010-03-10 06:30:00 +06:00
+permalink: "/what-i-want/"
 categories:
-    - কবিতা
+- কবিতা
+id: 33
+author: শর্মা লুনা
+layout: post
+guid: http://sharmaluna.local/what-i-want/
+blogger_blog:
+- sharmaluna.blogspot.com
+blogger_author:
+- Sharma Luna
+blogger_permalink:
+- "/2017/02/blog-post_56.html"
+blogger_internal:
+- "/feeds/879179443059716192/posts/default/5917577479180550064"
 ---
 
 একটু যদি সহজ হও,কী ক্ষতি হয়!  

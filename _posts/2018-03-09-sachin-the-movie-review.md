@@ -1,13 +1,13 @@
 ---
-id: 968
-title: "শচীন! শচীন!! শচীন!!!শচীন!!!!"
-date: "2018-03-09T17:47:58+00:00"
-author: "শর্মা লুনা"
-layout: post
-guid: "https://sharmaluna.com/?p=968"
-permalink: /sachin-the-movie-review/
+title: শচীন! শচীন!! শচীন!!!শচীন!!!!
+date: 2018-03-09 23:47:58 +06:00
+permalink: "/sachin-the-movie-review/"
 categories:
-  - রিভিউ
+- রিভিউ
+id: 968
+author: শর্মা লুনা
+layout: post
+guid: https://sharmaluna.com/?p=968
 ---
 
 [![](/assets/images/wp-content/uploads/2018/03/sachin-poster-1.jpg)](/assets/images/wp-content/uploads/2018/03/sachin-poster-1.jpg)
