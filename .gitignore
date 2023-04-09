@@ -3,3 +3,11 @@ _site
 .jekyll-metadata
 node_modules
 Gemfile.lock
+Gemfile
+bin
+cache
+doc
+extensions
+gems
+plugins
+specifications
