@@ -217,7 +217,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
                       <a class="page-link" href="{{site.baseurl}}/">{{ start_page }}</a>
                     </li>
                   {% else %}
-                    <li class="page-item disabled d-xs-none">
+                    <li class="page-item disabled d-none d-sm-block">
                       <span class="webjeda page-link">...</span>
                     </li>
                   {% endif %}
@@ -243,7 +243,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
                       <a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">{{ paginator.total_pages }}</a>
                     </li>
                   {% else %}
-                    <li class="page-item disabled d-xs-none">
+                    <li class="page-item disabled d-none d-sm-block">
                       <span class="webjeda page-link">...</span>
                     </li>
                   {% endif %}
