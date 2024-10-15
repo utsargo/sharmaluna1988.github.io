@@ -1,0 +1,13 @@
+_site
+.sass-cache
+.jekyll-metadata
+node_modules
+Gemfile.lock
+Gemfile
+bin
+cache
+doc
+extensions
+gems
+plugins
+specifications
