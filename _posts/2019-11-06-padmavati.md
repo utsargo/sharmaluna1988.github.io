@@ -3,14 +3,13 @@ title: পদ্মাবতী নিয়ে কেন এত বিতর্ক
 date: 2019-11-06 02:44:00 +06:00
 permalink: "/padmavati/"
 categories:
-- রিভিউ
+  - রিভিউ
 id: 1350
 author: শর্মা লুনা
 layout: post
 guid: https://sharmaluna.com/?p=1350
+image: assets/images/wp-content/uploads/2019/11/fbd623c306d50fb98703dadd367ce4bb.jpg
 ---
-
-[![](/assets/images/wp-content/uploads/2019/11/fbd623c306d50fb98703dadd367ce4bb.jpg)](/assets/images/wp-content/uploads/2019/11/fbd623c306d50fb98703dadd367ce4bb.jpg)
 
 এটা একটি পুরনো লেখা। তবু দিলাম। পানিপথের ট্রেইলার বের হয়েছে। ঐতিহাসিক বিতর্কিত প্লট নিয়ে যখন ছবি হয়, অনেক প্রশ্ন তৈরি হয়। পদ্মাবতী নিয়ে লিখেছিলাম যখন এটা মুক্তি পাচ্ছিল না কিছু বিতর্কের কারণে।
 

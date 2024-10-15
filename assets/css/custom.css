@@ -80,4 +80,7 @@
     flex-direction: column-reverse;
     gap: 8px;
   }
+}
+.bg-lightblue {
+  background: #f9f8f8;
 }/*# sourceMappingURL=custom.css.map */

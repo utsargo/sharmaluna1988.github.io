@@ -3,11 +3,13 @@ title: কেন বিজেপি&#8217;র NRC ও CAA আইন এর প�
 date: 2019-12-30 00:19:51 +06:00
 permalink: "/why-we-are-against-nrc-and-caa/"
 categories:
-- মাথাব্যাথা
+  - মাথাব্যাথা
 id: 1366
 author: শর্মা লুনা
 layout: post
 guid: https://sharmaluna.com/?p=1366
+image:
+  - assets/images/wp-content/uploads/2019/12/Capture.jpg
 ---
 
 [![](/assets/images/wp-content/uploads/2019/12/Capture.jpg)](/assets/images/wp-content/uploads/2019/12/Capture.jpg)

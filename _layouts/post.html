@@ -15,7 +15,7 @@ layout: default
               {% for category in page.categories %}
               <a
                 class="sscroll text-danger"
-                href="{{site.baseurl}}/categories.html#{{ category | downcase }}"
+                href="/categories.html#{{ category | downcase }}"
                 >{{ category | downcase }}</a
               ><span class="sep">/</span>
               {% endfor %}
@@ -26,7 +26,7 @@ layout: default
             {% if author.avatar %}
             <img
               class="rounded-circle"
-              src="{{site.baseurl}}/{{author.avatar}}"
+              src="/{{author.avatar}}"
               alt="{{author.name}}"
               width="70"
             />
@@ -97,7 +97,7 @@ layout: default
           {% for tag in page.tags %}
           <a
             class="sscroll btn btn-light btn-sm font-weight-bold"
-            href="{{site.baseurl}}/tags.html#{{ tag | downcase }}"
+            href="/tags.html#{{ tag | downcase }}"
             >{{ tag | downcase }}</a
           >
           {% endfor %}
@@ -156,7 +156,7 @@ layout: default
           {% if author.avatar %}
           <img
             class="rounded-circle"
-            src="{{site.baseurl}}/{{author.avatar}}"
+            src="/{{author.avatar}}"
             alt="{{author.name}}"
             width="90"
           />
@@ -195,7 +195,7 @@ layout: default
           <img
             height="30px"
             class="mr-1"
-            src="{{site.baseurl}}/{{page.previous.image}}"
+            src="/{{page.previous.image}}"
           />
           {% endif %} {{page.previous.title}}</a
         >
@@ -207,7 +207,7 @@ layout: default
           <img
             height="30px"
             class="ml-1"
-            src="{{site.baseurl}}/{{page.next.image}}"
+            src="/{{page.next.image}}"
           />
           {% endif %}</a
         >

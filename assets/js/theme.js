@@ -171,8 +171,9 @@ const imgList = [
 window.onload = () =>{
     const autoThumbs = document.querySelectorAll(".auto-thumb");
     autoThumbs.forEach((thumb) => {
-        const randomIndex = Math.floor(Math.random() * imgList.length);
-        const randomImg = imgList[randomIndex];
-        thumb.setAttribute("src", `https://source.unsplash.com/${randomImg}`);
+        // const randomIndex = Math.floor(Math.random() * imgList.length);
+        // const randomImg = imgList[randomIndex];
+        const randomQuery = Math.random();
+        thumb.setAttribute("src", `https://picsum.photos/600/400?random=${randomQuery}&category=abstract`);
       });
 }
