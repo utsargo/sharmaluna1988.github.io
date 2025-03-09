@@ -1,0 +1,10 @@
+---
+title: Test Post
+date: 2025-03-09 23:35:00 +06:00
+permalink: "/test-post/"
+categories:
+- test
+image: "/uploads/burger.jpg"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nisi lorem, laoreet quis iaculis quis, tristique at leo. Sed ut ullamcorper mi, quis lacinia libero. Maecenas justo enim, porttitor quis mollis in, faucibus vel mauris. Phasellus tincidunt neque et nibh maximus aliquet. Duis at lorem nunc. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer finibus urna quis est consequat posuere. Quisque blandit, leo ut imperdiet vulputate, ex ante eleifend neque, ut imperdiet est odio vel quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sem arcu, volutpat at mauris sit amet, finibus viverra diam. Proin suscipit gravida eros ac finibus. Proin vel molestie lorem. Quisque in mauris et nisi tincidunt pretium quis ut nulla. Pellentesque commodo fermentum libero, et ullamcorper lacus pharetra ac.
