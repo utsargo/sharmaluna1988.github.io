@@ -1,0 +1,61 @@
+---
+title: জানালা
+timezone: Asia/Dhaka
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: _posts
+  values:
+    layout: post
+    author: luna
+    avatar: assets/images/luna-profile.JPG
+- scope:
+    path: _pages
+  values:
+    layout: page
+name: জানালা
+description: আলাপ ও অপলাপসমূহ
+logo: assets/images/logo.png
+favicon: assets/images/favicon.ico
+url: https://sharmaluna.com
+disqus: jaanaalaa
+email: sharmaluna1988@gmail.com
+mailchimp-list: https://github.us11.list-manage.com/subscribe/post?u=2088efa7f9eb0edbdd5711c20&amp;id=07af44c99d&amp;f_id=00369ee0f0
+include:
+- _pages
+permalink: pretty
+plugins:
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-paginate
+- jekyll-seo-tag
+authors:
+  luna:
+    name: শর্মা লুনা
+    site: https://www.sharmaluna.com
+    avatar: assets/images/luna-profile.JPG
+    bio: আমি একজন নিতান্ত সাধারণ মানুষ। এই জানালা আমার মনের জানালা। আমার সুখ-দুঃখ,
+      হাসি-কান্না, ক্ষোভ ও প্রেমের প্রকাশ এই জানালা।
+    email: 
+    twitter: 
+markdown: kramdown
+highlighter: rouge
+paginate: 10
+exclude:
+- README.markdown
+- package.json
+- grunt.js
+- Gruntfile.js
+- Gruntfile.coffee
+- node_modules
+sass:
+  sass_dir: _sass
+  style: compressed
+default_image: https://picsum.photos/600/400?random=1&category=abstract
+port: 4444
