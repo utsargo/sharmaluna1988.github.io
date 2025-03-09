@@ -83,4 +83,23 @@
 }
 .bg-lightblue {
   background: #f9f8f8;
+}
+
+.category-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  list-style-type: none;
+  justify-content: center;
+  align-items: center;
+}
+.category-cloud a {
+  background: #f9f8f8;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.archive-item h4 a {
+  color: #333;
+  font-size: 20px;
 }/*# sourceMappingURL=custom.css.map */
