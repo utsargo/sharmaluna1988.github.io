@@ -3,9 +3,9 @@ title: জুতার বাড়ি
 date: 2009-10-25 23:00:49 +07:00
 permalink: "/jutar-bari/"
 categories:
-  - ফানপোস্ট
+- ফানপোস্ট
 tags:
-  - শর্মা লুনা
+- শর্মা লুনা
 id: 521
 author: শর্মা লুনা
 layout: post

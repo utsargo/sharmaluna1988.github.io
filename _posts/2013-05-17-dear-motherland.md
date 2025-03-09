@@ -3,13 +3,13 @@ title: প্রিয়তম স্বদেশ
 date: 2013-05-17 01:25:25 +06:00
 permalink: "/dear-motherland/"
 categories:
-  - কবিতা
+- কবিতা
+tags:
+- featured
 id: 745
 author: শর্মা লুনা
 layout: post
 guid: https://bn.sharmaluna.com/?p=745
-tags:
-  - featured
 ---
 
 আজ তোমাকে ভাবলেই আমি কবিতা ভুলে যাই  

@@ -3,7 +3,7 @@ title: পদ্মাবতী নিয়ে কেন এত বিতর্ক
 date: 2019-11-06 02:44:00 +06:00
 permalink: "/padmavati/"
 categories:
-  - রিভিউ
+- রিভিউ
 id: 1350
 author: শর্মা লুনা
 layout: post

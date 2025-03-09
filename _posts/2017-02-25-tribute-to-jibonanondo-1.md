@@ -3,13 +3,13 @@ title: জীবনানন্দের প্রতি
 date: 2017-02-25 04:59:04 +06:00
 permalink: "/tribute-to-jibonanondo-1/"
 categories:
-  - কবিতা
+- কবিতা
+tags:
+- sticky
 id: 653
 author: শর্মা লুনা
 layout: post
 guid: https://bn.sharmaluna.com/?p=653
-tags:
-  - sticky
 image: assets/images/wp-content/uploads/2017/02/86293614_594291634758453_6018701408923025408_o.jpg
 ---
 

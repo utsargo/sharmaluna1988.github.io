@@ -3,21 +3,21 @@ title: সব চুপ
 date: 2011-07-07 06:49:00 +06:00
 permalink: "/everything-is-silent/"
 categories:
-  - কবিতা
+- কবিতা
+tags:
+- featured
 id: 27
 author: শর্মা লুনা
 layout: post
 guid: http://sharmaluna.local/everything-is-silent/
 blogger_blog:
-  - sharmaluna.blogspot.com
+- sharmaluna.blogspot.com
 blogger_author:
-  - Sharma Luna
+- Sharma Luna
 blogger_permalink:
-  - "/2017/02/blog-post_73.html"
+- "/2017/02/blog-post_73.html"
 blogger_internal:
-  - "/feeds/879179443059716192/posts/default/4512992594049279690"
-tags:
-  - featured
+- "/feeds/879179443059716192/posts/default/4512992594049279690"
 ---
 
 [![](/assets/images/wp-content/uploads/2017/02/monpobon_1310037983_1-Image0872-1.jpg)](/assets/images/wp-content/uploads/2017/02/monpobon_1310037983_1-Image0872-1.jpg)

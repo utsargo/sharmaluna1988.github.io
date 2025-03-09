@@ -1,9 +1,9 @@
 ---
-title: "সুন্দরবন-রামপাল বিদ্যুৎ কেন্দ্র প্রকল্প: আত্মহত্যার মোক্ষম অস্ত্র"
+title: 'সুন্দরবন-রামপাল বিদ্যুৎ কেন্দ্র প্রকল্প: আত্মহত্যার মোক্ষম অস্ত্র'
 date: 2013-09-26 18:14:37 +06:00
 permalink: "/sundarban-rampal-power-project-suicidal-initiative/"
 categories:
-  - মাথাব্যাথা
+- মাথাব্যাথা
 id: 891
 author: শর্মা লুনা
 layout: post
