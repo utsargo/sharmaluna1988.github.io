@@ -1,6 +1,6 @@
 ---
-title: ভাঁড়ার
-permalink: "/categories/"
+title: সকল লেখা
+permalink: "/archive/"
 layout: page
 ---
 
@@ -9,6 +9,20 @@ layout: page
 {% assign scategories = site.categories | sort %}
 <main class="content" role="main">
   <article class="preview">
+    <!-- <section class="search-section">
+      <form id="search">
+        <input
+          type="text"
+          id="search-box"
+          name="query"
+          placeholder="খুঁজুন..."
+        />
+        <div class="search-btn fa fa-search"></div>
+      </form>
+
+      <div id="search-results"></div>
+    </section> -->
+
     <ul class="category-cloud">
       {% for category in scategories %}
       <li
@@ -24,7 +38,7 @@ layout: page
       </li>
       {% endfor %}
     </ul>
-    <p class="post-count text-center">
+    <p class="post-count">
       মোট
       <b
         >{{ site.categories | size | replace:'1','১' | replace:'2','২' |

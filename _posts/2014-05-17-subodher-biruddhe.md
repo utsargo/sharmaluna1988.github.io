@@ -1,9 +1,9 @@
 ---
 title: সুবোধের বিরুদ্ধে যাদের ঐক্য
 date: 2014-05-17 16:56:20 +06:00
-permalink: "/%e0%a6%b8%e0%a7%81%e0%a6%ac%e0%a7%8b%e0%a6%a7%e0%a7%87%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%b0%e0%a7%81%e0%a6%a6%e0%a7%8d%e0%a6%a7%e0%a7%87-%e0%a6%af%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%90/"
+permalink: "/subodher-biruddhe/"
 categories:
-- মাথাব্যাথা
+  - মাথাব্যাথা
 id: 873
 author: শর্মা লুনা
 layout: post

@@ -33,7 +33,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
         <small class="d-block text-muted">
             <i class="fa-regular fa-folder-open"></i> <span class="catlist">
                 {% for category in latest_post.categories %}
-                <a class="text-capitalize smoothscroll cat-single" href="/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">/</span>
+                <a class="text-capitalize smoothscroll cat-single" href="/categories/#{{ category | downcase }}">{{ category }}</a><span class="sep">/</span>
                 {% endfor %}
                 </span>                   
         </small>
@@ -70,7 +70,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
                     <small class="d-block text-muted">
                         <i class="fa-regular fa-folder-open"></i> <span class="catlist">
                         {% for category in second_post.categories %}
-                        <a class="text-capitalize smoothscroll cat-single" href="/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">/</span>
+                        <a class="text-capitalize smoothscroll cat-single" href="/categories/#{{ category | downcase }}">{{ category }}</a><span class="sep">/</span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -103,7 +103,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
                     <small class="d-block text-muted">
                         <i class="fa-regular fa-folder-open"></i> <span class="catlist">
                         {% for category in third_post.categories %}
-                        <a class="text-capitalize smoothscroll cat-single" href="/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">/</span>
+                        <a class="text-capitalize smoothscroll cat-single" href="/categories/#{{ category | downcase }}">{{ category }}</a><span class="sep">/</span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -136,7 +136,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
                     <small class="d-block text-muted">
                         <i class="fa-regular fa-folder-open"></i> <span class="catlist">
                         {% for category in fourth_post.categories %}
-                        <a class="text-capitalize smoothscroll cat-single" href="/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">/</span>
+                        <a class="text-capitalize smoothscroll cat-single" href="/categories/#{{ category | downcase }}">{{ category }}</a><span class="sep">/</span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -239,7 +239,7 @@ description: A great Jekyll theme developed by Sal @wowthemesnet.
                 {% endfor %}
           
                 {% if end_page < paginator.total_pages %}
-                  {% if end_page == paginator.total_pages | minus: 1 %}
+                  {% if end_page == (paginator.total_pages | minus: 1) %}
                     <li class="page-item">
                       <a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">{{ paginator.total_pages }}</a>
                     </li>
