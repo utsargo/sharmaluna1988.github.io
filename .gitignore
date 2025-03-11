@@ -1,0 +1,11 @@
+_site
+.sass-cache
+.jekyll-metadata
+node_modules
+bin
+cache
+doc
+extensions
+gems
+plugins
+specifications
