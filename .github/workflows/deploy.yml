@@ -29,8 +29,9 @@ jobs:
           rm -rf docs/*
           cp -r _site/* docs
           rm -rf _site
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.JEKYLL_PAT }}@github.com/sharmaluna1988/sharmaluna1988.github.io.git
           git add .
           git commit -m "Build site"
           git push origin main
