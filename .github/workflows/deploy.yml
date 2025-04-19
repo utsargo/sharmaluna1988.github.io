@@ -26,7 +26,6 @@ jobs:
 
       - name: Push _site contents to root of main
         run: |
-          rm -rf .gitignore .github Gemfile Gemfile.lock _config.yml _posts _layouts _includes _pages _plugins _sass _site assets README.md
           rm -rf docs/*
           cp -r _site/* docs
           rm -rf _site
