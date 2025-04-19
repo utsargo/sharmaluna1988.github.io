@@ -1,0 +1,39 @@
+name: Build Jekyll site and commit to main
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build the site
+        run: bundle exec jekyll build
+
+      - name: Push _site contents to root of main
+        run: |
+          rm -rf .gitignore .github Gemfile Gemfile.lock _config.yml _posts _layouts _includes _pages _plugins _sass _site assets README.md
+          rm -rf docs/*
+          cp -r _site/* docs
+          rm -rf _site
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Build site"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
