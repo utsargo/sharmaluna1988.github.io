@@ -35,5 +35,3 @@ jobs:
           git add .
           git commit -m "Build site"
           git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
