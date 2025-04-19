@@ -1,0 +1,19 @@
+image: ruby:3.1
+
+variables:
+  JEKYLL_ENV: production
+  BUNDLE_PATH: vendor/bundle
+
+before_script:
+  - apt-get update && apt-get install -y build-essential nodejs
+  - gem install bundler
+  - bundle install
+
+pages:
+  script:
+    - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+      - public
+  only:
+    - main # or your default branch

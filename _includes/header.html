@@ -1,0 +1,36 @@
+<nav
+  id="MagicMenu"
+  class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top"
+>
+  <div class="container">
+    <div class="site-info">
+      <a class="navbar-brand" href="{{ site.baseurl }}/index.html"
+        ><strong>{{site.name}}</strong></a
+      >
+      <p class="site-description">{{site.description}}</p>
+    </div>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarColor02"
+      aria-controls="navbarColor02"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse" id="navbarColor02" style="">
+      <ul class="navbar-nav mr-auto d-flex align-items-center">
+        {% include menu-header.html %}
+      </ul>
+      <ul class="navbar-nav ml-auto d-flex align-items-center">
+        {% include search-lunr.html %}
+      </ul>
+    </div>
+  </div>
+</nav>
+<!-- Search Results -->
+<div id="lunrsearchresults">
+  <ul class="mb-0"></ul>
+</div>

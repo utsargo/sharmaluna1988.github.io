@@ -1,0 +1,19 @@
+<ul class="category-cloud">
+  {% for category in site.categories %} {% assign category_name = category[0] %}
+
+  <!-- ✅ Get category_slug from generated category pages -->
+  {% assign category_page = site.pages | where: "category", category_name |
+  first %} {% if category_page %} {% assign category_slug =
+  category_page.category_slug %} {% else %} {% assign category_slug =
+  category_name | slugify %} {% endif %}
+
+  <li>
+    <a href="{{ site.baseurl }}/categories/{{ category_slug }}/">
+      {{ category_name }} ({{ category[1].size | replace:'1','১' |
+      replace:'2','২' | replace:'3','৩' | replace:'4','৪' | replace:'5','৫' |
+      replace:'6','৬' | replace:'7','৭' | replace:'8','৮' | replace:'9','৯' |
+      replace:'0','০' }})
+    </a>
+  </li>
+  {% endfor %}
+</ul>
