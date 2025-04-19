@@ -1,0 +1,13 @@
+{% for category in include.categories %} {% assign category_page = site.pages |
+where: "category", category | first %} {% if category_page %} {% assign
+category_slug = category_page.category_slug %} {% else %} {% assign
+category_slug = category | slugify %} {% endif %}
+
+<a
+  class="text-capitalize smoothscroll cat-single"
+  href="{{ site.baseurl }}/categories/{{ category_slug }}/"
+>
+  {{ category }}
+</a>
+
+{% unless forloop.last %}<span class="sep">/</span>{% endunless %} {% endfor %}

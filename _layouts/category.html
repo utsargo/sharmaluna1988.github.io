@@ -2,10 +2,127 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<div class="container">
+  <h3 class="font-weight-bold spanborder"><span>{{ page.category }}</span></h3>
+  <div class="page-content">
+    <div class="row remove-site-content-margin">
+      {% assign category_posts = site.categories[page.category] %}
+      {% assign latest_post = category_posts | first %}
 
-<ul>
-  {% for post in site.categories[page.category] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+      {% if latest_post %}
+        <!-- Featured Post -->
+        <div class="col-md-6 latest-posts-left">
+          <div class="card border-0 mb-4 box-shadow latest-posts-l">
+            <a href="{{ site.baseurl }}{{ latest_post.url }}">
+              <div class="topfirstimage" style="background-image: url({% if latest_post.image %}{% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %}{{ latest_post.image }}{% endif %}{% else %}{{ site.default_image }}{% endif %}); background-size: cover; background-repeat: no-repeat;"></div>
+            </a>
+            <div class="card-body d-flex flex-column align-items-start">
+              <h2 class="h4 font-weight-bold">
+                <a class="text-dark" href="{{ site.baseurl }}{{ latest_post.url }}">{{ latest_post.title }}</a>
+              </h2>
+              <p class="excerpt">{{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}</p>
+              <small class="text-muted">{{ latest_post.date | date: '%b %d, %Y' }}</small>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+
+      <!-- Next 3 posts -->
+      <div class="col-md-6 latest-posts-right" id="post-container">
+        {% for post in category_posts offset:1 limit:3 %}
+          <div class="mb-3 d-flex align-items-center latest-post-r">
+            {% if post.image %}
+            <div class="col-4">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                <img class="w-100" 
+                     src="{% if post.image %}{% if post.image contains '://' %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}{% else %}/assets/images/placeholder.png{% endif %}"  
+                     alt="{{ post.title }}">
+              </a>
+            </div>
+            {% else %}
+            <div class="col-4">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                <img class="w-100 auto-thumb" 
+                     src="/assets/images/placeholder.png"  
+                     alt="{{ post.title }}">
+              </a>
+            </div>
+            {% endif %}
+            <div class="post-detail col-8">
+              <h2 class="mb-2 h6 font-weight-bold">
+                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+              </h2>
+              <small class="text-muted">{{ post.date | date: '%b %d, %Y' }}</small>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- Paginated Posts -->
+    <div class="row mt-3">
+      <div class="col-md-12 main-loop">
+        <h4 id="all-posts" class="font-weight-bold spanborder"><span>সকল লেখা</span></h4>
+        <div class="row">
+          {% for post in page.posts %}
+            <div class="col-md-3 col-12 mb-4">
+              <div class="card h-100">
+                {% if post.image %}
+                <a href="{{ post.url }}">
+                  <img class="card-img-top"
+                       src="{% if post.image %}{% if post.image contains '://' %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}{% else %}/assets/images/placeholder.png{% endif %}"
+                       alt="{{ post.title }}">
+                </a>
+                {% else %}
+                <a href="{{ post.url }}">
+                  <img class="card-img-top auto-thumb"
+                       src="/assets/images/placeholder.png"
+                       alt="{{ post.title }}">
+                </a>
+                {% endif %}
+                <div class="card-body d-flex flex-column align-items-center bg-lightblue">
+                  <h5 class="card-title fs-6 fw-bold">
+                    <a class="text-dark" href="{{ post.url }}">{{ post.title }}</a>
+                  </h5>
+                  <small class="text-muted">{{ post.date | date: '%b %d, %Y' }}</small>
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+
+        <!-- Pagination Links -->
+        {% assign current = page.pagination.current_page %}
+        {% assign total = page.pagination.total_pages %}
+        {% assign base = page.pagination.base_url %}
+
+        {% if total > 1 %}
+          <nav class="pagination mt-4 d-flex justify-content-center">
+            <ul class="pagination">
+              {% if current > 1 %}
+                <li class="page-item">
+                  <a class="page-link" href="{{ base }}{% if current > 2 %}/page{{ current | minus: 1 }}{% endif %}#all-posts">পূর্ববর্তী</a>
+                </li>
+              {% endif %}
+
+              {% for i in (1..total) %}
+                <li class="d-none d-md-block page-item {% if i == current %}active{% endif %}">
+                  <a class="page-link" href="{{ base }}{% if i > 1 %}/page{{ i }}{% endif %}#all-posts">{{ i }}</a>
+                </li>
+              {% endfor %}
+
+              {% if current < total %}
+                <li class="page-item">
+                  <a class="page-link" href="{{ base }}/page{{ current | plus: 1 }}#all-posts">পরবর্তী</a>
+                </li>
+              {% endif %}
+            </ul>
+          </nav>
+        {% endif %}
+        
+
+        
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="container">
+  <h2>Category: {{ page.category }}</h2>
+
+  {% for post in page.posts %}
+  <div class="post mb-4">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>{{ post.excerpt | strip_html }}</p>
+    <small>{{ post.date | date: "%B %d, %Y" }}</small>
+  </div>
+  {% endfor %}
+
+  <nav class="pagination mt-5">
+    {% if page.current_page > 1 %}
+    <a
+      class="btn btn-outline-primary"
+      href="{{ '/category/' | append: page.category | append: page.current_page | minus: 1 | prepend: '/page' | replace: 'page1', '' }}"
+      >← Previous</a
+    >
+    {% endif %} {% if page.current_page < page.total_pages %}
+    <a
+      class="btn btn-outline-primary"
+      href="/category/{{ page.category }}/page{{ page.current_page | plus: 1 }}"
+      >Next →</a
+    >
+    {% endif %}
+  </nav>
+</div>
