@@ -1,1 +1,1 @@
-Sitemap: https://sharmaluna.com/sitemap.xml
+Sitemap: /sitemap.xml
