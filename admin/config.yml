@@ -1,0 +1,47 @@
+local_backend: true
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: "assets/uploads"
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{slug}}"
+    format: "yaml-frontmatter"
+    extension: "md"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - {
+          label: "Permalink",
+          name: "permalink",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Categories", name: "categories", widget: "list", default: [] }
+      - { label: "Tags", name: "tags", widget: "list", default: [] }
+      - { label: "ID", name: "id", widget: "number", required: false }
+      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "pages"
+    label: "Pages"
+    folder: "_pages"
+    create: true
+    slug: "{{slug}}"
+    format: "yaml-frontmatter"
+    extension: "md"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Permalink",
+          name: "permalink",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Body", name: "body", widget: "markdown" }
